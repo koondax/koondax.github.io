@@ -3,6 +3,7 @@ layout: post
 title:  "Welcome to Koondi's world"
 date:   2022-03-09 21:51:17 +0200
 categories: jekyll update
+permalink: "/intro/"
 ---
 
 

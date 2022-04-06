@@ -20,13 +20,21 @@ I am fascinated by how partial differential equations can explain the world arou
 <li> Biofilm growth. </li>
 </ul>
 <li>
-<strong> Asymptotic analysis and upscaling </strong>: homogenization, stability analysis, phase-fields.
+<strong> Asymptotic analysis and upscaling</strong>: Homogenization, stability analysis, phase-fields.
 </li>
 <li>
-<strong> Computation </strong> meshing, adaptivity, ODE solvers, linear solvers, post-processing and visualization,  parallelization.
+<strong> Computation</strong>: Meshing, adaptivity, ODE solvers, linear solvers, post-processing and visualization,  parallelization.
 </li>
 </ul>
 
+
+<br>
+<div>
+<h4> A general summary of my work on hysteresis and dynamic effects </h4>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_a8r0vJdVOs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+A general summary of my work on hysteresis and dynamic effects</iframe>
+</div>
+<br>
 
 <h2>
 My Publications

@@ -29,7 +29,7 @@ dp2.src="/DP/dp2.jpg"
   color: white;
   font-family: 'Century Gothic',sans-serif;
 ">
-  <img src="dp0.jpg" name="slide" alt="No Picture Available" class="box-img">
+  <img src="/DP/dp0.jpg" name="slide" alt="No Picture Available" class="box-img">
 <script>
 <!--
 //variable that will increment through the images

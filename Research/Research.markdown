@@ -37,8 +37,11 @@ A general summary of my work on hysteresis and dynamic effects</iframe>
 <br>
 
 <h2>
-My Publications
+My Publications <a href="https://scholar.google.com/citations?user=q3wIdrIAAAAJ&hl=en"><img src="/icons/google-scholar.png">       </a> 
+<a href="https://www.researchgate.net/profile/Koondanibha-Mitra"><img src="/icons/researchgate.png"> </a>
 </h2>
+
+
 
 <h4> In preparation </h4>
 <ul style="list-style-image: url('/icons/prepare.png');">

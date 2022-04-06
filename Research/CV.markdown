@@ -147,3 +147,36 @@ Ranked <b> 2nd </b> in the department
 </td>
 </tr>
 </table>
+
+
+
+<h2><img src="/icons/scholarship.png"> Fellowship, Grants, and Award </h2>
+<table>
+<tr><td>
+<a href="https://www.fwo.be/en/fellowships-funding/postdoctoral-fellowships/junior-postdoctoral-fellowship/"><strong>Junior Postdoctoral Fellowship</strong></a>
+</td>
+<td>
+<a href="https://www.fwo.be/">FWO</a> (Research Foundation Flanders)
+</td>
+<td>
+2022-25
+</td></tr>
+<tr><td  colspan="3">
+Was awarded this prestigious fellowship for a 3 year independent researcher position in Hasselt University (due to start on June 2022).
+</td>
+</tr>
+
+<tr><td colspan="2">
+<a href="https://ndns.nl/funding/"><i>NDNS+ grant </i></a> (2500 Euro) , 
+<i>Radboud internationalization grant </i>(2500 Euro)
+</td>
+<td>
+2022
+</td>
+</tr>
+<tr><td colspan="3">
+Received the grants for the organization of the <a href="https://www.ru.nl/math/research/vmconferences/nonlinear-diffusion-equations-applications-biology/">Nonlinear Diffusion Equation & Applications in Biology</a> conference.
+</td></tr>
+</table>
+
+

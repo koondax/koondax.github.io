@@ -177,6 +177,17 @@ Was awarded this prestigious fellowship for a 3 year independent researcher posi
 <tr><td colspan="3">
 Received the grants for the organization of the <a href="https://www.ru.nl/math/research/vmconferences/nonlinear-diffusion-equations-applications-biology/">Nonlinear Diffusion Equation & Applications in Biology</a> conference.
 </td></tr>
+
+<tr><td>
+<i>Student Travel Award</i>
+</td><td>
+<a href="https://www.interpore.org/">InterPore Scoiety</a>
+</td><td>
+2019
+</td></tr>
+<tr><td colspan="3">
+Selected among 30 applicants to receive the travel award for participating in the <a href="https://events.interpore.org/event/12/">Interpore 2019</a> conference.
+</td></tr>
 </table>
 
 

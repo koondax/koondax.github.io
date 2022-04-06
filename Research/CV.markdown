@@ -82,7 +82,7 @@ The predictions were validated numerically by an adaptive algorithm.
 
 
 
-<h2><img src="/icons/edu.png"> EDUCATION </h2>
+<h2><img src="/icons/edu.png"> Education </h2>
 <table>
 <tr>
 <td>
@@ -115,6 +115,12 @@ Shell-NWO Computational Sciences for Energy Research grant</a>, UHasselt BOF17BL
 <i> Award: </i><a href="https://www.tue.nl/en/our-university/about-the-university/support-services/general-affairs/office-of-doctoral-presentations-and-academic-ceremonies/phd-defenses/cum-laude/"> 
 cum laude</a> (highest award in the Netherlands awarded to top 5%)<br>
 <i> Topic:</i> On numerical and applied analysis of multiphase flow through porous media. Modelling of non-equilibrium effects, and computation.
+<br><br>
+
+<center>
+<img src="/Pictures/Cover_Thesis.jpg" style="width:300px;">
+</center>
+
 </td>
 </tr>
 

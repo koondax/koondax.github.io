@@ -80,6 +80,8 @@ The predictions were validated numerically by an adaptive algorithm.
 </table>
 
 
+
+
 <h2><img src="/icons/edu.png"> EDUCATION </h2>
 <table>
 <tr>
@@ -131,9 +133,6 @@ Mechanical Engineering
 </td><td>
 <i>Cumulative GPA</i>: 8.84/10<br>
 <i>Additional GPA</i>: 7.47/10
-<td>
-
-
 </td>
 </tr>
 <tr>

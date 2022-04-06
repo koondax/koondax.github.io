@@ -22,8 +22,8 @@ title: Koondanibha (Koondi) Mitra
 email: kmitrabelur@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Type of the wise who soar but never roam, True to the kindred points of heaven and home.
-baseurl: "/MySite" # the subpath of your site, e.g. /blog
-url: "http://koondi.net/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://www.koondi.net/" # the base hostname & protocol for your site, e.g. http://example.com
 facebook_username: koondanibha
 googlescholar_username: koondi
 github_username:  koondax

@@ -191,3 +191,96 @@ Selected among 30 applicants to receive the travel award for participating in th
 </table>
 
 
+<h2><img src="/icons/teaching.png"> Teaching and Supervision</h2>
+<table>
+<tr><td>
+<b>Lecturer</b> of masters course <i>Sobolev spaces & PDEs</i>, Mathematics
+</td>
+<td>
+Radboud University
+</td>
+<td>
+2022
+</td></tr>
+
+
+<tr><td>
+<b>Co-supervised</b> bachelor thesis of <i>I.C. Bloo</i>
+</td>
+<td>
+Radboud University
+</td>
+<td>
+2021
+</td></tr>
+
+<tr><td>
+<b>Co-supervised</b> masters thesis of <a href="https://scholar.google.com/citations?user=q211zTUAAAAJ&hl=en"><i>S.B. Lunowa</i></a> & <i>F. List</i>
+</td>
+<td>
+TU Eindhoven
+</td>
+<td>
+2017-18
+</td></tr>
+
+
+<tr><td>
+<b>Correcter</b> for <i>Analysis I</i> course, Mathematics department
+</td>
+<td>
+TU Dortmund
+</td>
+<td>
+2019-20
+</td></tr>
+
+<tr><td>
+<b>Teaching assistant</b>, <i>Dynamics</i> course, Mechanical Engineering department
+</td>
+<td>
+TU Eindhoven
+</td>
+<td>
+2016-18
+</td></tr>
+
+<tr><td>
+<b>Teaching assistant</b>, <i>Mathematics I</i> course, Mathematics department
+</td>
+<td>
+TU Eindhoven
+</td>
+<td>
+2017
+</td></tr>
+
+<tr><td>
+<b>Teaching assistant</b>, <i>Signals</i> course, Electrical Engineering department
+</td>
+<td>
+TU Eindhoven
+</td>
+<td>
+2017
+</td></tr>
+
+
+<tr><td>
+<b>Voluntary teacher</b> at <i> Sramajibi Vidyalaya</i> for underpriviledged children </td>
+<td>
+West Bengal, India
+</td>
+<td>
+2013-15
+</td></tr>
+
+<tr><td>
+<b>Mentor</b> in <i> Student Mentorship Programme</i> </td>
+<td>
+IIT Kharagpur
+</td>
+<td>
+2012-14
+</td></tr>
+</table>

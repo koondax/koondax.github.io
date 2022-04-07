@@ -48,7 +48,8 @@ Advisor: Prof. <a href="https://who.rocq.inria.fr/Martin.Vohralik/"> M. Vohralik
 <tr>
 <td colspan="4">
 <i> Project: <a href="https://project.inria.fr/gatipor/">ERC Consolidator Gatipor</a></i>:
-We derived robust and locally space-time efficient a-posteriori error bounds for fully degenerate Richards equation, and demonstrated the efficiency of the estimators numerically.
+We derived robust and locally space-time efficient a-posteriori error bounds for fully degenerate Richards equation, and demonstrated the efficiency of the estimators numerically. 
+The FreeFem+ codes can be found in this <a href="https://github.com/koondax/Aposteriori"> github repository </a>.
 </td>
 </tr>
 

@@ -20,7 +20,7 @@ Warning! This pic is a decade old :D</i>
 
 <p>
 I made this page to give an overview of my work and other interests. I like to science :P. I also like arts & crafts. I enjoy physical activities too, like football, racket sports, and 
-going to gym. In this page, let me give a brief intro</p>
+going to gym. In this page, let me introduce myself briefly</p>
 </td></tr>
 </table>
 

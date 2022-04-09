@@ -42,6 +42,9 @@ permalink: "/CV/"
         }
 </style>
 
+<br>
+<br>
+
 <div class="navr">
 
        <img src="/icons/pointing.gif" width="40"> || <a href="#WorkEx" class="btn">Work Experience </a> ||
@@ -49,6 +52,9 @@ permalink: "/CV/"
         <a href="#Awards" class="btn">Awards & Grants</a>||
         <a href="#Teaching" class="btn">Teaching & Supervision </a>
     </div>
+
+<br>
+<br>
 
 
 <h2 id="WorkEx"> <img src="/icons/workex.png"> Work Experience</h2>

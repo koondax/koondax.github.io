@@ -15,7 +15,7 @@ In opposition to the foolish ignorabimus our slogan shall be:
 {% endhighlight %}
 
 <p>
-I am fascinated by how partial differential equations can explain the world around us. My expertise are:
+I am fascinated by how partial differential equations can explain the world around us. 
 </p>
 
 

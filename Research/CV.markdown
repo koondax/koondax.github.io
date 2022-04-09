@@ -5,8 +5,53 @@ title: "Resume"
 permalink: "/CV/"
 ---
 
+{% highlight ruby %}
 
-<h2> <img src="/icons/workex.png"> Work Experience</h2>
+कर्मण्येवाधिकारस्ते मा फलेषु कदाचन।
+
+~ Sanskrit Sloka, meaning
+
+'One must work ernestly without always thinking what fruit it might bring'
+{% endhighlight %}
+
+<!--SECTION: NAVIGATION BAR----------------------------------------------------------------------------------------------->
+
+<style>
+        .navr {
+            width: 100;
+            height: 60;
+            background-color: #F0FFFF;
+            font-size: large;
+            color: white;
+            text-align: center;
+            margin: 10px 5px;
+            display: flex;
+            flex-direction: row;
+   %         justify-content: space-around;
+            place-items: center;
+        }
+          
+        .btn {
+            color: white;
+            background-color: #38CC77;
+            height: 50;
+            width: 100;
+            padding: 2px;
+            border: 3px solid black;
+            text-decoration: none;
+        }
+</style>
+
+<div class="navr">
+
+       <img src="/icons/pointing.gif" width="40"> || <a href="#WorkEx" class="btn">Work Experience </a> ||
+        <a href="#Edu" class="btn">Education</a>||
+        <a href="#Awards" class="btn">Awards & Grants</a>||
+        <a href="#Teaching" class="btn">Teaching & Supervision </a>
+    </div>
+
+
+<h2 id="WorkEx"> <img src="/icons/workex.png"> Work Experience</h2>
 
 <table>
 <tr>
@@ -83,7 +128,7 @@ The predictions were validated numerically by an adaptive algorithm.
 
 
 
-<h2><img src="/icons/edu.png"> Education </h2>
+<h2 id="Edu"><img src="/icons/edu.png"> Education </h2>
 <table>
 <tr>
 <td>
@@ -157,7 +202,7 @@ Ranked <b> 2nd </b> in the department
 
 
 
-<h2><img src="/icons/scholarship.png"> Fellowship, Grants, and Award </h2>
+<h2 id="Awards"><img src="/icons/scholarship.png"> Fellowship, Grants, and Award </h2>
 <table>
 <tr><td>
 <a href="https://www.fwo.be/en/fellowships-funding/postdoctoral-fellowships/junior-postdoctoral-fellowship/"><strong>Junior Postdoctoral Fellowship</strong></a>
@@ -198,7 +243,7 @@ Selected among 30 applicants to receive the travel award for participating in th
 </table>
 
 
-<h2><img src="/icons/teaching.png"> Teaching and Supervision</h2>
+<h2 id="Teaching"><img src="/icons/teaching.png"> Teaching and Supervision</h2>
 <table>
 <tr><td>
 <b>Lecturer</b> of masters course <i>Sobolev spaces & PDEs</i>, Mathematics

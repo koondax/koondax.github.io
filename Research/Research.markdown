@@ -19,23 +19,6 @@ I am fascinated by how partial differential equations can explain the world arou
 </p>
 
 
-<ul style="list-style-image: url('/icons/integral.png');">
-<li> <strong>Applied analysis</strong>: Nonlinear degenerate PDEs, well-posedness, Rothe's method, free boundaries.</li>
-<li> <strong>Numerical analysis</strong>: Linear iterative techniques, a-posteriori error estimates, domain decomposition schemes, spatial discretizations including finite differences, elements, volumes.</li>
-<li> <strong>Special solutions</strong>: Travelling waves, similarity solutions,  entropy solutions, Riemann problems. </li>
-<li> <strong>Modelling</strong>:</li>
-<ul style="list-style-image: url('/icons/modelling.png');"><li> Multiphase flow in porous medium, particularly, hysteresis and dynamic effects. </li>
-<li> Biofilm growth. </li>
-</ul>
-<li>
-<strong> Asymptotic analysis and upscaling</strong>: Homogenization, stability analysis, phase-fields.
-</li>
-<li>
-<strong> Computation</strong>: Meshing, adaptivity, ODE solvers, linear solvers, post-processing and visualization,  parallelization.
-</li>
-</ul>
-
-
 <!--SECTION: NAVIGATION BAR----------------------------------------------------------------------------------------------->
 
 <style>
@@ -64,12 +47,39 @@ I am fascinated by how partial differential equations can explain the world arou
         }
 </style>
 
+<br>
+<br>
 <div class="navr">
 
-       <img src="/icons/pointing.gif" width="40"> || <a href="#Publication" class="btn">My Publications </a> ||
+       <img src="/icons/pointing.gif" width="40"> || <a href="#Expertise" class="btn">Expertise </a>|| <a href="#Publication" class="btn">Publications </a>
+ ||
         <a href="#Talks" class="btn">Outreach</a>||
         <a href="#Reviews" class="btn">Reviews</a>
     </div>
+<br>
+<br>
+
+<!--SECTION: EXPERTISE----------------------------------------------------------------------------------------------->
+
+<h2 id="Expertise"><img src="\icons\expertise.png" width="50"> Expertise</h2>
+<ul style="list-style-image: url('/icons/integral.png');">
+<li> <strong>Applied analysis</strong>: Nonlinear degenerate PDEs, well-posedness, Rothe's method, free boundaries.</li>
+<li> <strong>Numerical analysis</strong>: Linear iterative techniques, a-posteriori error estimates, domain decomposition schemes, spatial discretizations including finite differences, elements, volumes.</li>
+<li> <strong>Special solutions</strong>: Travelling waves, similarity solutions,  entropy solutions, Riemann problems. </li>
+<li> <strong>Modelling</strong>:</li>
+<ul style="list-style-image: url('/icons/modelling.png');"><li> Multiphase flow in porous medium, particularly, hysteresis and dynamic effects. </li>
+<li> Biofilm growth. </li>
+</ul>
+<li>
+<strong> Asymptotic analysis and upscaling</strong>: Homogenization, stability analysis, phase-fields.
+</li>
+<li>
+<strong> Computation</strong>: Meshing, adaptivity, ODE solvers, linear solvers, post-processing and visualization,  parallelization.
+</li>
+</ul>
+
+
+
 
 <!--SECTION: YOUTUBE VIDEO----------------------------------------------------------------------------------------------->
 <br>
@@ -79,7 +89,8 @@ I am fascinated by how partial differential equations can explain the world arou
 A general summary of my work on hysteresis and dynamic effects</iframe>
 </div>
 <br>
-
+<br>
+<br>
 
 
 

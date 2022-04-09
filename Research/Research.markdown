@@ -5,6 +5,14 @@ title: "Research"
 permalink: "/my-research-home/"
 ---
 
+{% highlight ruby %}
+For us there is no ignorabimus, and in my opinion none whatever in natural science. 
+In opposition to the foolish ignorabimus our slogan shall be:
+
+'We must know — we will know'
+
+~ David Hilbert
+{% endhighlight %}
 
 <p>
 I am fascinated by how partial differential equations can explain the world around us. My expertise are:

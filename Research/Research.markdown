@@ -48,7 +48,6 @@ I am fascinated by how partial differential equations can explain the world arou
 </style>
 
 <br>
-<br>
 <div class="navr">
 
        <img src="/icons/pointing.gif" width="40"> || <a href="#Expertise" class="btn">Expertise </a>|| <a href="#Publication" class="btn">Publications </a>
@@ -56,7 +55,6 @@ I am fascinated by how partial differential equations can explain the world arou
         <a href="#Talks" class="btn">Outreach</a>||
         <a href="#Reviews" class="btn">Reviews</a>
     </div>
-<br>
 <br>
 
 <!--SECTION: EXPERTISE----------------------------------------------------------------------------------------------->

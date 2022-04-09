@@ -36,6 +36,42 @@ I am fascinated by how partial differential equations can explain the world arou
 </ul>
 
 
+<!--SECTION: NAVIGATION BAR----------------------------------------------------------------------------------------------->
+
+<style>
+        .navr {
+            width: 100;
+            height: 60;
+            background-color: #F0FFFF;
+            font-size: large;
+            color: white;
+            text-align: center;
+            margin: 10px 5px;
+            display: flex;
+            flex-direction: row;
+   %         justify-content: space-around;
+            place-items: center;
+        }
+          
+        .btn {
+            color: white;
+            background-color: #38CC77;
+            height: 50;
+            width: 100;
+            padding: 2px;
+            border: 3px solid black;
+            text-decoration: none;
+        }
+</style>
+
+<div class="navr">
+
+       <img src="/icons/pointing.gif" width="40"> || <a href="#Publication" class="btn">My Publications </a> ||
+        <a href="#Talks" class="btn">Outreach</a>||
+        <a href="#Reviews" class="btn">Reviews</a>
+    </div>
+
+<!--SECTION: YOUTUBE VIDEO----------------------------------------------------------------------------------------------->
 <br>
 <div>
 <h4> A general summary of my work on hysteresis and dynamic effects </h4>
@@ -44,7 +80,11 @@ A general summary of my work on hysteresis and dynamic effects</iframe>
 </div>
 <br>
 
-<h2>
+
+
+
+<!--SECTION: MY PUBLICATIONS----------------------------------------------------------------------------------------------->
+<h2 id="Publication">
 My Publications <a href="https://scholar.google.com/citations?user=q3wIdrIAAAAJ&hl=en"><img src="/icons/google-scholar.png">       </a> 
 <a href="https://www.researchgate.net/profile/Koondanibha-Mitra"><img src="/icons/researchgate.png"> </a>
 </h2>
@@ -107,3 +147,63 @@ C.J. van Duijn, K. Mitra, & I.S. Pop (2018). <a href="https://doi.org/10.1016/j.
  Travelling wave solutions for the Richards equation incorporating non-equilibrium effects in the capillarity pressure.</a> Nonlinear Analysis: Real World Applications, 41, 232-268.
 </li>
 </ul>
+<br>
+<br>
+
+
+<!--SECTION: RESEARCH VISITS----------------------------------------------------------------------------------------------->
+<h2 id="Talks" > <img src="\icons\talk.png"> Outreach </h2>
+
+<h4>Invited Talks & Research Visits</h4>
+ 
+<ul style="list-style-image: url('/icons/network.png');">
+<li   style="list-style-image: url('/icons/mic.png');">
+[2022 Mar] <a href="https://www.youtube.com/channel/UCuK0ogQKdSxq6pW-vljLN1Q"> Porous Media Tea Time Talks </a>, <a href="https://www.interpore.org/">InterPore Society</a>: Invited for a YouTube live talk.<br>
+</li><li>
+[2022, 2019] <a HREF="https://team.inria.fr/serena/">INRIA Paris</a>, France: invited to the SERENA group for collaboration and seminar talks.<br>
+</li>
+<li>
+[2022, 2018] <a href="https://www.mfo.de/scientific-programme/meetings">MF Oberwolfach</a>, Germany: invited to attend the workshop.<br>
+</li><li style="list-style-image: url('/icons/mic.png');">
+[2019 Jan] <a>Student Trip</a> organized by <a href="https://www.uib.no/en/rg/pmg">University of Bergen</a>, Norway: gave invited talks in KTH Stockholm, & Chalmers University of Technology in Gothenburg.<br>
+</li><li>
+[2018, 2019] <a href="https://www.iws.uni-stuttgart.de/en/institute/">University of Stuttgart</a>, Germany: invited for a talk and collaboration.<br>
+</li><li>
+[2018 June] <a href="http://www.lsi.mathematik.tu-dortmund.de/cms/de/Willkommen/">TU Dortmund</a>, Germany: invited for a talk and collaboration.<br>
+</li><li style="list-style-image: url('/icons/mic.png');">
+[2018 May] <a> Workshop on Adaptive model and solver computations</a>, Ullensvang, Norway: invited speaker.
+</li>
+</ul>
+
+<h4>Selected Conference Talks</h4>
+<table>
+<tr><td>2020-21</td><td>     
+<a href="https://efef2020.inria.fr/"> 
+European Finite Element Fair</a> (France), <a href="https://events.interpore.org/event/25/">INTERPORE</a> (online), INRIA-IFPN meet (France)
+</td></tr>
+<tr><td>2019</td><td>     
+<a href="https://iciam2019.org/">ICIAM</a> (Spain), <a href="https://www.siam.org/Conferences/CM/Main/gs19"> SIAM Geosciences</a> (USA), <a href="https://events.interpore.org/event/12/">INTERPORE</a> (Spain)
+</td></tr>
+<tr><td>2017-18</td><td>     
+<a href="https://events.interpore.org/event/2/">INTERPORE</a> (USA), <a href="http://www.acomen.ugent.be/"> ACOMEN</a> (Belgium), <a href="http://www.uib.no/en/enumath2017">ENUMATH</a> (Norway), 
+<a href="http://www.ugr.es/~mamern/">MAMERN VII </a> (Morocco), <a href="http://jmburgerscentrum.nl/burgers-symposium/"> JMBC Burgers Symposium</a> (The Netherlands)</td></tr>
+</table>
+
+<!--SECTION: REVIEWS----------------------------------------------------------------------------------------------->
+<h2 id="Reviews" ><img src="\icons\review.png"> Peer Reviews in Journals & Proceedings</h2>
+
+<table>
+<tr><td>
+<ul><li>
+Applied Mathematics & Computation</li>
+<li>Advances in Water Resources</li>
+<li>Computational Geosciences</li>
+<li>Journal of Comp. & App. Mathematics</li></ul>
+</td><td>
+<ul>
+<li>Journal of Num. Anal. & Appr. Theory </li>
+<li>Society of Petroleum Engineering Journal</li>
+<li>Transport in Porous Media</li>
+<li>ENUMATH 2017 Proceedings</li>
+</ul></td></tr>
+</table>

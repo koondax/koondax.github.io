@@ -54,8 +54,8 @@ permalink: "/CV/"
 </div>
 <div class="navr">
         <a href="#Teaching" class="btn">Teaching & Supervision </a> ||
-<a href="#Interns" class="btn">Internships </a>||
 <a href="#Management" class="btn">Management </a>||
+<a href="#Interns" class="btn">Internships </a>||
     </div>
 
 <br>
@@ -348,37 +348,7 @@ IIT Kharagpur
 </td></tr>
 </table>
 
-<!--SECTION: INTERNSHIPS----------------------------------------------------------------------------------------------->
-
-<h2 id="Interns"><img src="/icons/Internship.png" width="70"> Internships</h2>
-<table>
-<tr><td>2014 Summer</td><td>
-<a href="https://mdx.plm.automation.siemens.com/">CD-Adapco</a>, Bangalore, India</td> <td>Investigation on breakup of finite sized droplet filaments </td>
-</tr>
-<tr><td colspan="3"> <ul>
-<li> Validated droplet breakup phenomenon using VOF method with Star-CCM+. </li>
-<li> Results published by the company at $\mu$-TAS 2014  conference.</li>
-</ul></td></tr>
-
-
-<tr><td>2013 Summer+Winter</td><td>
-<a href="https://www.whirlpoolindia.com/">
-Whirlpool India Ltd, </a> Pune, India </td><td>Mathematical modelling of oven door hinges </td>
-</tr>
-<tr><td colspan="3"> <ul>
-<li>  Analysed patented oven door hinges of the suppliers. </li>
-<li> Produced patentable alternate designs that have the same performance.</li>
-<li> Won the `Best Internship Award'.</li>
-</ul></td></tr>
-
-
-<tr><td>2012 Summer</td><td>
-<a href="http://www.hindalco.com/">Hindalco Industries Ltd</a>, Kolkata, India </td><td>Stress analysis of Tension Leveler</td>
-</tr>
-<tr><td colspan="3"> Analysed and automated buckling removal process of Tension Leveler machine.</td></tr>
-</table>
-
-
+<!--SECTION: MANAGEMENT----------------------------------------------------------------------------------------------->
 
 <h2 id="Management"><img src="/icons/responsibility.png" width="50"> Management</h2>
 
@@ -411,5 +381,42 @@ Your browser does not support the video type (-mp4).
 </center>
 </td></tr>
 </table>
+
+
+
+
+<!--SECTION: INTERNSHIPS----------------------------------------------------------------------------------------------->
+
+<h2 id="Interns"><img src="/icons/Internship.png" width="70"> Internships</h2>
+<table>
+<tr><td>2014 Summer</td><td>
+<a href="https://mdx.plm.automation.siemens.com/">CD-Adapco</a>, Bangalore, India</td> <td>Investigation on breakup of finite sized droplet filaments </td>
+</tr>
+<tr><td colspan="3"> <ul>
+<li> Validated droplet breakup phenomenon using VOF method with Star-CCM+. </li>
+<li> Results published by the company at $\mu$-TAS 2014  conference.</li>
+</ul></td></tr>
+
+
+<tr><td>2013 Summer+Winter</td><td>
+<a href="https://www.whirlpoolindia.com/">
+Whirlpool India Ltd, </a> Pune, India </td><td>Mathematical modelling of oven door hinges </td>
+</tr>
+<tr><td colspan="3"> <ul>
+<li>  Analysed patented oven door hinges of the suppliers. </li>
+<li> Produced patentable alternate designs that have the same performance.</li>
+<li> Won the `Best Internship Award'.</li>
+</ul></td></tr>
+
+
+<tr><td>2012 Summer</td><td>
+<a href="http://www.hindalco.com/">Hindalco Industries Ltd</a>, Kolkata, India </td><td>Stress analysis of Tension Leveler</td>
+</tr>
+<tr><td colspan="3"> Analysed and automated buckling removal process of Tension Leveler machine.</td></tr>
+</table>
+
+
+
+
 
 

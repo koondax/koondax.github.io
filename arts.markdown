@@ -67,6 +67,9 @@ This was a collaboration album made by <a href="https://www.facebook.com/dario.b
 </table>
 
 
+<img src="/Pictures/singing_together.jpg">
+
+
 <!--RABINDRA SANGEET---------------------------------------------------------------------->
 
 

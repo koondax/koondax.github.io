@@ -24,10 +24,10 @@ permalink: "/CV/"
             font-size: large;
             color: white;
             text-align: center;
-            margin: 10px 5px;
+            margin: 5px 5px 5px 10px;
             display: flex;
             flex-direction: row;
-   %         justify-content: space-around;
+%          justify-content: space-around;
             place-items: center;
         }
           
@@ -42,6 +42,7 @@ permalink: "/CV/"
         }
 </style>
 
+
 <br>
 <br>
 
@@ -49,14 +50,15 @@ permalink: "/CV/"
 
        <img src="/icons/pointing.gif" width="40"> || <a href="#WorkEx" class="btn">Work Experience </a> ||
         <a href="#Edu" class="btn">Education</a>||
-        <a href="#Awards" class="btn">Awards & Grants</a>||
-        <a href="#Teaching" class="btn">Teaching & Supervision </a>
+        <a href="#Awards" class="btn">Awards & Grants</a>
+</div>
+<div class="navr">
+        <a href="#Teaching" class="btn">Teaching & Supervision </a> ||
+<a href="#Interns" class="btn">Internships </a>||
     </div>
 
 <br>
 <br>
-
-
 <h2 id="WorkEx"> <img src="/icons/workex.png"> Work Experience</h2>
 
 <table>
@@ -132,7 +134,7 @@ The predictions were validated numerically by an adaptive algorithm.
 </table>
 
 
-
+<!--SECTION: EDUCATION----------------------------------------------------------------------------------------------->
 
 <h2 id="Edu"><img src="/icons/edu.png"> Education </h2>
 <table>
@@ -206,7 +208,7 @@ Ranked <b> 2nd </b> in the department
 </tr>
 </table>
 
-
+<!--SECTION: AWARDS AND GRANTS----------------------------------------------------------------------------------------------->
 
 <h2 id="Awards"><img src="/icons/scholarship.png"> Fellowship, Grants, and Award </h2>
 <table>
@@ -248,6 +250,8 @@ Selected among 30 applicants to receive the travel award for participating in th
 </td></tr>
 </table>
 
+
+<!--SECTION: TEACHING----------------------------------------------------------------------------------------------->
 
 <h2 id="Teaching"><img src="/icons/teaching.png"> Teaching and Supervision</h2>
 <table>
@@ -341,4 +345,34 @@ IIT Kharagpur
 <td>
 2012-14
 </td></tr>
+</table>
+
+<!--SECTION: INTERNSHIPS----------------------------------------------------------------------------------------------->
+
+<h2 id="Interns"><img src="/icons/Internship.png" width="70"> Internships</h2>
+<table>
+<tr><td>2014 Summer</td><td>
+<a href="https://mdx.plm.automation.siemens.com/">CD-Adapco</a>, Bangalore, India</td> <td>Investigation on breakup of finite sized droplet filaments </td>
+</tr>
+<tr><td colspan="3"> <ul>
+<li> Validated droplet breakup phenomenon using VOF method with Star-CCM+. </li>
+<li> Results published by the company at $\mu$-TAS 2014  conference.</li>
+</ul></td></tr>
+
+
+<tr><td>2013 Summer+Winter</td><td>
+<a href="https://www.whirlpoolindia.com/">
+Whirlpool India Ltd, </a> Pune, India </td><td>Mathematical modelling of oven door hinges </td>
+</tr>
+<tr><td colspan="3"> <ul>
+<li>  Analysed patented oven door hinges of the suppliers. </li>
+<li> Produced patentable alternate designs that have the same performance.</li>
+<li> Won the `Best Internship Award'.</li>
+</ul></td></tr>
+
+
+<tr><td>2012 Summer</td><td>
+<a href="http://www.hindalco.com/">Hindalco Industries Ltd</a>, Kolkata, India </td><td>Stress analysis of Tension Leveler</td>
+</tr>
+<tr><td colspan="3"> Analysed and automated buckling removal process of Tension Leveler machine.</td></tr>
 </table>

@@ -55,6 +55,7 @@ permalink: "/CV/"
 <div class="navr">
         <a href="#Teaching" class="btn">Teaching & Supervision </a> ||
 <a href="#Interns" class="btn">Internships </a>||
+<a href="#Management" class="btn">Management </a>||
     </div>
 
 <br>
@@ -376,3 +377,39 @@ Whirlpool India Ltd, </a> Pune, India </td><td>Mathematical modelling of oven do
 </tr>
 <tr><td colspan="3"> Analysed and automated buckling removal process of Tension Leveler machine.</td></tr>
 </table>
+
+
+
+<h2 id="Management"><img src="/icons/responsibility.png" width="50"> Management</h2>
+
+
+<h4> Conference Organization</h4>
+<table>
+<tr><td>6-8 July, 2022</td><td>Nijmegen, The Netherlands</td><td>
+<a href="https://www.ru.nl/math/research/vmconferences/nonlinear-diffusion-equations-applications-biology/">Nonlinear Diffusion Equations and Applications in Biology</a></td></tr>
+<tr><td colspan="2"> <iframe src="/docs/poster_ndea.pdf"></iframe></td>
+<td>
+12 speakers invited including  modellers in mathematical biology and experts in differential equations. 50 attendees expected.
+</td></tr>
+</table>
+
+
+<h4> Entrepreneurship </h4>
+<table>
+<tr><td><img src="/Pictures/companylogo_PDC.jpg" width="100"></td><td>2013-15 </td><td>  Portable Diagnostic Center (PDC) </td></tr>
+<tr><td colspan="2"><video width="320" height="240" controls controlsList="nodownload">
+  <source src="/docs/PDCvideo.mp4" type="video/mp4">
+Your browser does not support the video type (-mp4).
+</video></td>
+<td><ul>
+<li>Designed and manufactured microfluidic CD-based diagnostic device with two other partners.</li>
+<li>Won numerous accolades and grants including prestigious <a href="http://villgro.org/ipitch/">Unconvention|L Pitch</a>, <a href="https://wiki.metakgp.org/w/Kshitij">Kshitij 2014</a>.</li>
+</ul>
+
+  <center>
+
+</center>
+</td></tr>
+</table>
+
+

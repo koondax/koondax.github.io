@@ -171,7 +171,7 @@ C.J. van Duijn, K. Mitra, & I.S. Pop (2018). <a href="https://doi.org/10.1016/j.
 </li><li>
 [2018 June] <a href="http://www.lsi.mathematik.tu-dortmund.de/cms/de/Willkommen/">TU Dortmund</a>, Germany: invited for a talk and collaboration.<br>
 </li><li style="list-style-image: url('/icons/mic.png');">
-[2018 May] <a> Workshop on Adaptive model and solver computations</a>, Ullensvang, Norway: invited speaker.
+[2018 May] <a href="https://adasimblog.wordpress.com/2018/01/30/workshop/"> Workshop on Adaptive model and solver computations</a>, Ullensvang, Norway: invited speaker.
 </li>
 </ul>
 

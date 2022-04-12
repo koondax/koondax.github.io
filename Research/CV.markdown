@@ -11,8 +11,8 @@ permalink: "/CV/"
 
 ~ Sanskrit Sloka, meaning
 
-'One should work earnestly without always thinking about the fruits
- their work might bear'
+'One should work earnestly without always thinking about the fruits 
+their work might bear'
 {% endhighlight %}
 
 <!--SECTION: NAVIGATION BAR----------------------------------------------------------------------------------------------->
@@ -254,6 +254,7 @@ Selected among 30 applicants to receive the travel award for participating in th
 
 
 <!--SECTION: TEACHING----------------------------------------------------------------------------------------------->
+<img src="/Pictures/lecture.jpg" width="500">
 
 <h2 id="Teaching"><img src="/icons/teaching.png"> Teaching and Supervision</h2>
 <table>

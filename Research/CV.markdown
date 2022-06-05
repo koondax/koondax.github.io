@@ -66,7 +66,31 @@ their work might bear'
 <table>
 <tr>
 <td>
-2021-now
+2022 Jun-
+</td>
+<td>
+Independent <br> Researcher
+</td>
+<td>
+<a href="https://www.ru.nl/">Hasselt University</a>, Belgium
+</td>
+<td>
+
+</td>
+</tr>
+<tr>
+<td colspan="4">
+<i>Project: <a href="https://www.uhasselt.be/en/projects/detail/21495-project-r-12561">AdaPore</a> </i>: rigorous and fully adaptive model selection for multiphase flow through porous media.
+</td>
+</tr>
+
+
+
+
+
+<tr>
+<td>
+2021-2022
 </td>
 <td>
 Post-Doc
@@ -270,7 +294,7 @@ Radboud University
 
 
 <tr><td>
-<b>Co-supervised</b> bachelor thesis of <i>I.C. Bloo</i>
+<b>Co-supervised</b> bachelor thesis of <i>I.C. Bloo</i> & <i>M.E. Rinner </i>
 </td>
 <td>
 Radboud University

@@ -103,11 +103,15 @@ My Publications <a href="https://scholar.google.com/citations?user=q3wIdrIAAAAJ&
 <h4> In preparation </h4>
 <ul style="list-style-image: url('/icons/prepare.png');">
 <li>
-K. Mitra, & S. Sonner. Well-posedness and properties of nonlinear coupled evolution problems modelling biofilm growth.
+K. Mitra, & S. Sonner. <i>Well-posedness and properties of nonlinear coupled evolution problems modelling biofilm growth</i>.
 </li>
 <li>
-K. Mitra, & M. Vohralik. An orthogonal decomposition result based on iterative linearization and a posteriori estimates robust with respect to nonlinearities.
+K. Mitra, & M. Vohralik. <i>Robust, reliable, & efficient a posteriori estimates for nonlinear elliptic problems: 
+An orthogonal decomposition result based on iterative linearization</i>.
 </li>
+<li>
+A. Harnist, K. Mitra, A. Rappaport, & M. Vohralik. <i>Robust a posteriori estimate of energy differences for nonlinear
+elliptic problems</i>.</li>
 </ul>
 <br>
 
@@ -189,6 +193,9 @@ C.J. van Duijn, K. Mitra, & I.S. Pop (2018). <a href="https://doi.org/10.1016/j.
 
 <h4>Selected Conference Talks</h4>
 <table>
+<tr><td>2022</td><td> 
+<a href="https://events.interpore.org/event/40/">INTERPORE</a> (UAE), <a href="https://cmwrconference.org/">Computational Methods in Water Resources (CMWR)</a> (Poland)
+</td></tr>
 <tr><td>2020-21</td><td>     
 <a href="https://efef2020.inria.fr/"> 
 European Finite Element Fair</a> (France), <a href="https://events.interpore.org/event/25/">INTERPORE</a> (online), INRIA-IFPN meet (France)

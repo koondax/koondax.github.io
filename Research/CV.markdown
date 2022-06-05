@@ -300,7 +300,7 @@ Radboud University
 Radboud University
 </td>
 <td>
-2021
+2021-22
 </td></tr>
 
 <tr><td>

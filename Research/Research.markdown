@@ -166,6 +166,9 @@ C.J. van Duijn, K. Mitra, & I.S. Pop (2018). <a href="https://doi.org/10.1016/j.
 <h4>Invited Talks & Research Visits</h4>
  
 <ul style="list-style-image: url('/icons/network.png');">
+ <li   style="list-style-image: url('/icons/mic.png');">
+[2022 Jun] Workshop on <a href="https://project.inria.fr/gatipor/events/workshop2020/">Interplay of discretization and algebraic solvers: a posteriori error estimates and adaptivity</a>, Paris, France: invited speaker
+</li>
 <li   style="list-style-image: url('/icons/mic.png');">
 [2022 Mar] <a href="https://www.youtube.com/channel/UCuK0ogQKdSxq6pW-vljLN1Q"> Porous Media Tea Time Talks </a>, <a href="https://www.interpore.org/">InterPore Society</a>: Invited for a YouTube live talk.<br>
 </li><li>

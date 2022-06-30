@@ -168,7 +168,13 @@ C.J. van Duijn, K. Mitra, & I.S. Pop (2018). <a href="https://doi.org/10.1016/j.
 <h2 id="Talks" > <img src="\icons\talk.png"> Outreach </h2>
 
 <h4>Invited Talks & Research Visits</h4>
+
+ 
 <ul style="list-style-image: url('/icons/network.png');">
+ <li   style="list-style-image: url('/icons/mic.png');">
+[2022 Jun] Summer school: <a href="https://ecoles-cea-edf-inria.fr/en/schools/ecole-analyse-numerique-2022/">CEA-EDF-Inria summer school: Certification of errors in numerical simulations</a>, Paris, France: 
+invited to give lectures on methods for nonlinear equations
+</li>
  <li   style="list-style-image: url('/icons/mic.png');">
 [2022 Jun] Workshop on <a href="https://project.inria.fr/gatipor/events/workshop2020/">Interplay of discretization and algebraic solvers: a posteriori error estimates and adaptivity</a>, Paris, France: invited speaker
 </li>

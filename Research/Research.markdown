@@ -5,12 +5,61 @@ title: "Research"
 permalink: "/my-research-home/"
 ---
 
+{% highlight ruby %}
+For us there is no ignorabimus, and in my opinion none whatever in natural science. 
+In opposition to the foolish ignorabimus our slogan shall be:
+
+'We must know — we will know'
+
+~ David Hilbert
+{% endhighlight %}
 
 <p>
-I am fascinated by how partial differential equations can explain the world around us. My expertise are:
+I am fascinated by how partial differential equations can explain the world around us. 
 </p>
 
 
+<!--SECTION: NAVIGATION BAR----------------------------------------------------------------------------------------------->
+
+<style>
+        .navr {
+            width: 100;
+            height: 60;
+            background-color: #F0FFFF;
+            font-size: large;
+            color: white;
+            text-align: center;
+            margin: 10px 5px;
+            display: flex;
+            flex-direction: row;
+   %         justify-content: space-around;
+            place-items: center;
+        }
+          
+        .btn {
+            color: white;
+            background-color: #38CC77;
+            height: 50;
+            width: 100;
+            padding: 2px;
+            border: 3px solid black;
+            text-decoration: none;
+        }
+</style>
+
+<br>
+<div class="navr">
+
+       <img src="/icons/pointing.gif" width="40"> || <a href="#Expertise" class="btn">Expertise </a>|| <a href="#Publication" class="btn">Publications </a>
+ ||
+        <a href="#Talks" class="btn">Outreach</a>||
+        <a href="#Reviews" class="btn">Reviews</a>
+    </div>
+<br>
+
+<!--SECTION: EXPERTISE----------------------------------------------------------------------------------------------->
+
+<h2 id="Expertise"><img src="\icons\expertise.png" width="50"> Expertise</h2>
 <ul style="list-style-image: url('/icons/integral.png');">
 <li> <strong>Applied analysis</strong>: Nonlinear degenerate PDEs, well-posedness, Rothe's method, free boundaries.</li>
 <li> <strong>Numerical analysis</strong>: Linear iterative techniques, a-posteriori error estimates, domain decomposition schemes, spatial discretizations including finite differences, elements, volumes.</li>
@@ -20,26 +69,49 @@ I am fascinated by how partial differential equations can explain the world arou
 <li> Biofilm growth. </li>
 </ul>
 <li>
-<strong> Asymptotic analysis and upscaling </strong>: homogenization, stability analysis, phase-fields.
+<strong> Asymptotic analysis and upscaling</strong>: Homogenization, stability analysis, phase-fields.
 </li>
 <li>
-<strong> Computation </strong> meshing, adaptivity, ODE solvers, linear solvers, post-processing and visualization,  parallelization.
+<strong> Computation</strong>: Meshing, adaptivity, ODE solvers, linear solvers, post-processing and visualization,  parallelization.
 </li>
 </ul>
 
 
-<h2>
-My Publications
+
+
+<!--SECTION: YOUTUBE VIDEO----------------------------------------------------------------------------------------------->
+<br>
+<div>
+<h4> A general summary of my work on hysteresis and dynamic effects </h4>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_a8r0vJdVOs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+A general summary of my work on hysteresis and dynamic effects</iframe>
+</div>
+<br>
+<br>
+<br>
+
+
+
+<!--SECTION: MY PUBLICATIONS----------------------------------------------------------------------------------------------->
+<h2 id="Publication">
+My Publications <a href="https://scholar.google.com/citations?user=q3wIdrIAAAAJ&hl=en"><img src="/icons/google-scholar.png">       </a> 
+<a href="https://www.researchgate.net/profile/Koondanibha-Mitra"><img src="/icons/researchgate.png"> </a>
 </h2>
+
+
 
 <h4> In preparation </h4>
 <ul style="list-style-image: url('/icons/prepare.png');">
 <li>
-K. Mitra, & S. Sonner. Well-posedness and properties of nonlinear coupled evolution problems modelling biofilm growth.
+K. Mitra, & S. Sonner. <i>Well-posedness and properties of nonlinear coupled evolution problems modelling biofilm growth</i>.
 </li>
 <li>
-K. Mitra, & M. Vohralik. An orthogonal decomposition result based on iterative linearization and a posteriori estimates robust with respect to nonlinearities.
+K. Mitra, & M. Vohralik. <i>Robust, reliable, & efficient a posteriori estimates for nonlinear elliptic problems: 
+An orthogonal decomposition result based on iterative linearization</i>.
 </li>
+<li>
+A. Harnist, K. Mitra, A. Rappaport, & M. Vohralik. <i>Robust a posteriori estimate of energy differences for nonlinear
+elliptic problems</i>.</li>
 </ul>
 <br>
 
@@ -88,3 +160,68 @@ C.J. van Duijn, K. Mitra, & I.S. Pop (2018). <a href="https://doi.org/10.1016/j.
  Travelling wave solutions for the Richards equation incorporating non-equilibrium effects in the capillarity pressure.</a> Nonlinear Analysis: Real World Applications, 41, 232-268.
 </li>
 </ul>
+<br>
+<br>
+
+
+<!--SECTION: RESEARCH VISITS----------------------------------------------------------------------------------------------->
+<h2 id="Talks" > <img src="\icons\talk.png"> Outreach </h2>
+
+<h4>Invited Talks & Research Visits</h4>
+<ul style="list-style-image: url('/icons/network.png');">
+ <li   style="list-style-image: url('/icons/mic.png');">
+[2022 Jun] Workshop on <a href="https://project.inria.fr/gatipor/events/workshop2020/">Interplay of discretization and algebraic solvers: a posteriori error estimates and adaptivity</a>, Paris, France: invited speaker
+</li>
+<li   style="list-style-image: url('/icons/mic.png');">
+[2022 Mar] <a href="https://www.youtube.com/channel/UCuK0ogQKdSxq6pW-vljLN1Q"> Porous Media Tea Time Talks </a>, <a href="https://www.interpore.org/">InterPore Society</a>: Invited for a YouTube live talk.<br>
+</li><li>
+[2022, 2019] <a HREF="https://team.inria.fr/serena/">INRIA Paris</a>, France: invited to the SERENA group for collaboration and seminar talks.<br>
+</li>
+<li>
+[2022, 2018] <a href="https://www.mfo.de/scientific-programme/meetings">MF Oberwolfach</a>, Germany: invited to attend the workshop.<br>
+</li><li style="list-style-image: url('/icons/mic.png');">
+[2019 Jan] <a>Student Trip</a> organized by <a href="https://www.uib.no/en/rg/pmg">University of Bergen</a>, Norway: gave invited talks in KTH Stockholm, & Chalmers University of Technology in Gothenburg.<br>
+</li><li>
+[2018, 2019] <a href="https://www.iws.uni-stuttgart.de/en/institute/">University of Stuttgart</a>, Germany: invited for a talk and collaboration.<br>
+</li><li>
+[2018 June] <a href="http://www.lsi.mathematik.tu-dortmund.de/cms/de/Willkommen/">TU Dortmund</a>, Germany: invited for a talk and collaboration.<br>
+</li><li style="list-style-image: url('/icons/mic.png');">
+[2018 May] <a href="https://adasimblog.wordpress.com/2018/01/30/workshop/"> Workshop on Adaptive model and solver computations</a>, Ullensvang, Norway: invited speaker.
+</li>
+</ul>
+
+<h4>Selected Conference Talks</h4>
+<table>
+<tr><td>2022</td><td> 
+<a href="https://events.interpore.org/event/40/">INTERPORE</a> (UAE), <a href="https://cmwrconference.org/">Computational Methods in Water Resources (CMWR)</a> (Poland)
+</td></tr>
+<tr><td>2020-21</td><td>     
+<a href="https://efef2020.inria.fr/"> 
+European Finite Element Fair</a> (France), <a href="https://events.interpore.org/event/25/">INTERPORE</a> (online), INRIA-IFPN meet (France)
+</td></tr>
+<tr><td>2019</td><td>     
+<a href="https://iciam2019.org/">ICIAM</a> (Spain), <a href="https://www.siam.org/Conferences/CM/Main/gs19"> SIAM Geosciences</a> (USA), <a href="https://events.interpore.org/event/12/">INTERPORE</a> (Spain)
+</td></tr>
+<tr><td>2017-18</td><td>     
+<a href="https://events.interpore.org/event/2/">INTERPORE</a> (USA), <a href="http://www.acomen.ugent.be/"> ACOMEN</a> (Belgium), <a href="http://www.uib.no/en/enumath2017">ENUMATH</a> (Norway), 
+<a href="http://www.ugr.es/~mamern/">MAMERN VII </a> (Morocco), <a href="http://jmburgerscentrum.nl/burgers-symposium/"> JMBC Burgers Symposium</a> (The Netherlands)</td></tr>
+</table>
+
+<!--SECTION: REVIEWS----------------------------------------------------------------------------------------------->
+<h2 id="Reviews" ><img src="\icons\review.png"> Peer Reviews in Journals & Proceedings</h2>
+
+<table>
+<tr><td>
+<ul><li>
+Applied Mathematics & Computation</li>
+<li>Advances in Water Resources</li>
+<li>Computational Geosciences</li>
+<li>Journal of Comp. & App. Mathematics</li></ul>
+</td><td>
+<ul>
+<li>Journal of Num. Anal. & Appr. Theory </li>
+<li>Society of Petroleum Engineering Journal</li>
+<li>Transport in Porous Media</li>
+<li>ENUMATH 2017 Proceedings</li>
+</ul></td></tr>
+</table>

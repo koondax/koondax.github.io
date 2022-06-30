@@ -2,7 +2,7 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: home
+layout: homeCustom
 ---
  <title>Koondi Mitra</title>
 
@@ -15,6 +15,10 @@ var dp1=new Image()
 dp1.src="/DP/dp1.jpg"
 var dp2=new Image()
 dp2.src="/DP/dp2.jpg"
+var dp3=new Image()
+dp3.src="/DP/dp3.jpg"
+var dp4=new Image()
+dp4.src="/DP/dp4.jpg"
 //-->
 </script>
 
@@ -39,12 +43,12 @@ function slideit(){
 if (!document.images)
 return
 document.images.slide.src=eval("dp"+step+".src")
-if (step<2)
+if (step<4)
 step++
 else
 step=0
 //call function "slideit()" every 2.5 seconds
-setTimeout("slideit()",10000)
+setTimeout("slideit()",6000)
 }
 slideit()
 //-->

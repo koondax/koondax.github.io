@@ -116,8 +116,11 @@ elliptic problems</i>.</li>
 <br>
 
 <ul style="list-style-image: url('/icons/paper.png');">
+<h4> 2023 </h4>
+<li> J.S. Stokke, K. Mitra, E. Storvik, J.W. Both, & F.A. Radu (2023). <a href="https://doi.org/10.48550/arXiv.2301.02055">An adaptive solution strategy for Richards' equation.</a> arXiv:2301.02055.</li><br>
+
 <h4> 2022 </h4>
-<li> K. Mitra, J.M. Hughes, S. Sonner, H.J. Eberl, & J.D. Dockery (2022). <a href="https://doi.org/10.48550/arXiv.2202.07748">Travelling waves in a PDE--ODE coupled system with nonlinear diffusion.</a> arXiv:2202.07748.</li><br>
+<li> K. Mitra, J.M. Hughes, S. Sonner, H.J. Eberl, & J.D. Dockery (2022). <a href="https://doi.org/10.48550/arXiv.2202.07748">Travelling waves in a PDE--ODE coupled system with nonlinear diffusion.</a>  Journal of Dynamics and Differential Equations <i>(to appear)</i>.</li><br>
 <h4> 2021 </h4>
 <li> K. Mitra, &  M. Vohralik (2021). <a href="https://hal.inria.fr/hal-03328944">A posteriori error estimates for the Richards equation.</a> HAL Preprint, hal-03328944. </li>
 <li> K. Mitra, & C.J. van Duijn (2021). <a href="https://doi.org/10.1007/s10596-021-10106-6">Capillary hysteresis and gravity segregation in two phase flow through porous media.</a> Computational Geosciences, 26(1), 101-114. </li>

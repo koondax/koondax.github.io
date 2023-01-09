@@ -295,6 +295,25 @@ Selected among 30 applicants to receive the travel award for participating in th
 <img src="/Pictures/lecture.jpg" width="500">
 
 
+
+
+
+
+
+<h2 id="Teaching"><img src="/icons/teaching.png"> Teaching and Supervision</h2>
+<table>
+
+
+<tr><td>
+<b>Co-supervising</b> doctoral thesis of <a href="https://www.uhasselt.be/en/who-is-who/ayesha-javed"><i>A. Javed</i></a> 
+</td>
+<td>
+Hasselt University
+</td>
+<td>
+2022-
+</td></tr>
+
 <tr><td>
 <b>Co-supervising</b> masters thesis of <i>R.K.H. Smeets</i> 
 </td>
@@ -308,8 +327,7 @@ Radboud University
 
 
 
-<h2 id="Teaching"><img src="/icons/teaching.png"> Teaching and Supervision</h2>
-<table>
+
 <tr><td>
 <b>Lecturer</b> of masters course <i>Sobolev spaces & PDEs</i>, Mathematics
 </td>

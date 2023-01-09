@@ -294,6 +294,20 @@ Selected among 30 applicants to receive the travel award for participating in th
 <!--SECTION: TEACHING----------------------------------------------------------------------------------------------->
 <img src="/Pictures/lecture.jpg" width="500">
 
+
+<tr><td>
+<b>Co-supervising</b> masters thesis of <i>R.K.H. Smeets</i> 
+</td>
+<td>
+Radboud University
+</td>
+<td>
+2022-23
+</td></tr>
+
+
+
+
 <h2 id="Teaching"><img src="/icons/teaching.png"> Teaching and Supervision</h2>
 <table>
 <tr><td>

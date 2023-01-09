@@ -66,7 +66,7 @@ I am fascinated by how partial differential equations can explain the world arou
 <li> <strong>Special solutions</strong>: Travelling waves, similarity solutions,  entropy solutions, Riemann problems. </li>
 <li> <strong>Modelling</strong>:</li>
 <ul style="list-style-image: url('/icons/modelling.png');"><li> Multiphase flow in porous medium, particularly, hysteresis and dynamic effects. </li>
-<li> Biofilm growth. </li>
+<li> Mathematical biology, in particular, biofilm growth. </li>
 </ul>
 <li>
 <strong> Asymptotic analysis and upscaling</strong>: Homogenization, stability analysis, phase-fields.
@@ -174,6 +174,10 @@ C.J. van Duijn, K. Mitra, & I.S. Pop (2018). <a href="https://doi.org/10.1016/j.
 
  
 <ul style="list-style-image: url('/icons/network.png');">
+<li style="list-style-image: url('/icons/mic.png');">
+[2022 Sep] <a href="https://www.uib.no/en/vista-csd/156560/csd-seminar-series-koondanibha-mitra/">
+CSD Seminar</a>, Porous Media Group, Bergen, Norway.
+</li>
  <li   style="list-style-image: url('/icons/mic.png');">
 [2022 Jun] Summer school: <a href="https://ecoles-cea-edf-inria.fr/en/schools/ecole-analyse-numerique-2022/">CEA-EDF-Inria summer school: Certification of errors in numerical simulations</a>, Paris, France: 
 invited to give lectures on methods for nonlinear equations

@@ -444,7 +444,7 @@ Co-organizers: Dr. S. Sonner, V. Hissink Muller
 <tr><td colspan="2"> Iterative methods for porous media applications </td>
 <td>
 8 invited speakers, 2 sessions. <br>
-Co-organizers: Dr. S.B. Luonwa
+Co-organizer: Dr. S.B. Luonwa
 </td></tr>
 </table>
 

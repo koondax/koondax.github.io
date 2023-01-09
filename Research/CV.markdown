@@ -431,7 +431,17 @@ IIT Kharagpur
 <a href="https://www.ru.nl/math/research/vmconferences/nonlinear-diffusion-equations-applications-biology/">Nonlinear Diffusion Equations and Applications in Biology</a></td></tr>
 <tr><td colspan="2"> <iframe src="/docs/poster_ndea.pdf"></iframe></td>
 <td>
-12 speakers invited including  modellers in mathematical biology and experts in differential equations. 50 attendees expected.
+12 invited speakers and 40 attendees including  modellers in mathematical biology and experts in differential equations. Co-organizers: Dr. S. Sonner, V. Hissink Muller
+</td></tr>
+</table>
+
+<h4> Minisymposium Organization</h4>
+<table>
+<tr><td>19-22 June, 2023</td><td>Bergen, Norway</td><td>
+<a href="https://www.siam.org/conferences/cm/conference/gs23">SIAM Geosciences</a></td></tr>
+<tr><td colspan="2"> Iterative methods for porous media applications </td>
+<td>
+8 invited speakers, 2 sessions. Co-organizers: Dr. S.B. Luonwa
 </td></tr>
 </table>
 

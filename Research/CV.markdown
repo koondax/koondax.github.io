@@ -326,7 +326,7 @@ Radboud University
 
 
 <tr><td>
-<b>Lecturer</b> of bachelors course <i>Discrete and continuous dynamical systems</i>, Physics
+<b>Lecturer</b> of bachelors course <i>Discrete & continuous dynamical systems</i>, Physics
 </td>
 <td>
 Hasselt University
@@ -339,7 +339,8 @@ Hasselt University
 
 <tr><td>
 <b>Lecturer</b> of masters course <i>Sobolev spaces & PDEs</i>, Mathematics<br>
-<ul><li> Course rated <i>8.7/10</i>, awarded <i>Pluim</i> prize by Programme Committee of Mathematics.</li></ul>
+<ul><li> Course rated <i>8.7/10</i></li>
+<li>awarded <i>Pluim</i> prize by Programme Committee of Mathematics.</li></ul>
 </td>
 <td>
 Radboud University

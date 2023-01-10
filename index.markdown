@@ -19,6 +19,10 @@ var dp3=new Image()
 dp3.src="/DP/dp3.jpg"
 var dp4=new Image()
 dp4.src="/DP/dp4.jpg"
+var dp5=new Image()
+dp5.src="/DP/dp5.jpg"
+var dp6=new Image()
+dp6.src="/DP/dp6.jpg"
 //-->
 </script>
 
@@ -43,7 +47,7 @@ function slideit(){
 if (!document.images)
 return
 document.images.slide.src=eval("dp"+step+".src")
-if (step<4)
+if (step<6)
 step++
 else
 step=0

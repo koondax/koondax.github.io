@@ -340,7 +340,7 @@ Hasselt University
 <tr><td>
 <b>Lecturer</b> of masters course <i>Sobolev spaces & PDEs</i>, Mathematics<br>
 <ul><li> Course rated <i>8.7/10</i></li>
-<li>awarded <i>Pluim</i> prize by Programme Committee of Mathematics.</li></ul>
+<li>Awarded <i>Pluim</i> prize by the Programme Committee of Mathematics.</li></ul>
 </td>
 <td>
 Radboud University

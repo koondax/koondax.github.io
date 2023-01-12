@@ -248,7 +248,7 @@ Ranked <b> 2nd </b> in the department
 2022-25
 </td></tr>
 <tr><td  colspan="3">
-Was awarded this prestigious fellowship for a 3 year independent researcher position in Hasselt University (due to start on June 2022).
+Was awarded this prestigious fellowship for a 3 year independent researcher position (~250,000€) in Hasselt University (20% success rate).
 </td>
 </tr>
 

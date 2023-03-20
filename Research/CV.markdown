@@ -81,10 +81,7 @@ Independent <br> Researcher
 <tr>
 <td colspan="4">
 <i>Project: <a href="https://www.uhasselt.be/en/projects/detail/21495-project-r-12561">AdaPore</a> </i>: rigorous and fully adaptive model selection for multiphase flow through porous media.
-</td>
-</tr>
-<tr>
-<td colspan="4">
+<br>
 Developed guaranteed, robust and efficient a-posteriori estimators for general nonlinear elliptic problems. 
 Used the results for an rigorous and adaptive linearization algorithm for the Richards equation.
 </td>
@@ -261,7 +258,7 @@ Was awarded this prestigious fellowship for a 3 year independent researcher posi
 
 
 <tr><td>
-<a href="https://www.oracle.com/be/research/project-awards/"><strong>Oracle for Research Grant</strong></a>
+<a href="https://www.oracle.com/be/research/project-awards/">Oracle for Research Grant</a>
 </td>
 <td>
 <a href="https://www.oracle.com/be/">Oracle</a> 
@@ -351,6 +348,18 @@ Radboud University
 
 <tr><td>
 <b>Lecturer</b> of bachelors course <i>Discrete & continuous dynamical systems</i>, Physics
+</td>
+<td>
+Hasselt University
+</td>
+<td>
+2023
+</td></tr>
+
+
+
+<tr><td>
+<b>Co-lecturer</b> of bachelors course <i>Partial differential equations</i>, Mathematics
 </td>
 <td>
 Hasselt University
@@ -474,6 +483,15 @@ Co-organizers: Dr. S. Sonner, V. Hissink Muller
 
 <h4> Minisymposium Organization</h4>
 <table>
+<tr><td>4-8 Sep, 2023</td><td>Lisbon, Portugal</td><td>
+<a href="https://enumath2023.com/">ENUMATH</a></td></tr>
+<tr><td colspan="2"> Robust Numerical Methods for Nonlinear Problems in Biology </td>
+<td>
+8 invited speakers, 2 sessions. <br>
+Co-organizer: Dr. Q. Peng, Dr. T. Köppl
+</td></tr>
+
+
 <tr><td>19-22 June, 2023</td><td>Bergen, Norway</td><td>
 <a href="https://www.siam.org/conferences/cm/conference/gs23">SIAM Geosciences</a></td></tr>
 <tr><td colspan="2"> Iterative methods for porous media applications </td>

@@ -84,7 +84,7 @@ Independent <br> Researcher
 </i>
 <br>
 Developed guaranteed, robust and efficient a-posteriori estimators for general nonlinear elliptic problems. 
-Used the results for an rigorous and adaptive linearization algorithm for the Richards equation.
+Used the results for a rigorous and adaptive linearization algorithm for the Richards equation.
 </td>
 </tr>
 

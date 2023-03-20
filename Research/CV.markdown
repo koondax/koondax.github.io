@@ -241,8 +241,10 @@ Ranked <b> 2nd </b> in the department
 
 <!--SECTION: AWARDS AND GRANTS----------------------------------------------------------------------------------------------->
 
-<h2 id="Awards"><img src="/icons/scholarship.png"> Fellowship, Grants, and Award </h2>
+<h2 id="Awards"><img src="/icons/scholarship.png"> Fellowship, Grants, and Awards </h2>
 <table>
+
+
 <tr><td>
 <a href="https://www.fwo.be/en/fellowships-funding/postdoctoral-fellowships/junior-postdoctoral-fellowship/"><strong>Junior Postdoctoral Fellowship</strong></a>
 </td>
@@ -256,6 +258,23 @@ Ranked <b> 2nd </b> in the department
 Was awarded this prestigious fellowship for a 3 year independent researcher position (~250,000€) in Hasselt University (20% success rate).
 </td>
 </tr>
+
+
+<tr><td>
+<a href="https://www.oracle.com/be/research/project-awards/"><strong>Oracle for Research Grant</strong></a>
+</td>
+<td>
+<a href="https://www.oracle.com/be/">Oracle</a> 
+</td>
+<td>
+2023-24
+</td></tr>
+<tr><td  colspan="3">
+Awarded 12,500€ of cloud credit for the project <b>AAMPS</b>: <i>Adaptive and AI-assisted model-selection 
+and parallelisation in subsurface flow applications</i>
+</td>
+</tr>
+
 
 <tr><td>
 <i>Akademia mobility scheme</i>

@@ -72,7 +72,7 @@ I am fascinated by how partial differential equations can explain the world arou
 <strong> Asymptotic analysis and upscaling</strong>: Homogenization, stability analysis, phase-fields.
 </li>
 <li>
-<strong> Computation</strong>: Meshing, adaptivity, ODE solvers, linear solvers, post-processing and visualization,  parallelization.
+<strong> Computation</strong>: Adaptivity, data-drive simulations, post-processing and visualization,  parallelization, ODE solvers, Meshing, linear solvers.
 </li>
 </ul>
 
@@ -109,14 +109,13 @@ K. Mitra, & S. Sonner. <i>Well-posedness and properties of nonlinear coupled evo
 K. Mitra, & M. Vohralik. <i>Robust, reliable, & efficient a posteriori estimates for nonlinear elliptic problems: 
 An orthogonal decomposition result based on iterative linearization</i>.
 </li>
-<li>
-A. Harnist, K. Mitra, A. Rappaport, & M. Vohralik. <i>Robust a posteriori estimate of energy differences for nonlinear
-elliptic problems</i>.</li>
 </ul>
 <br>
 
 <ul style="list-style-image: url('/icons/paper.png');">
 <h4> 2023 </h4>
+<li>
+A. Harnist, K. Mitra, A. Rappaport, & M. Vohralik (2023). <a href="https://hal.science/hal-04033438">Robust a posteriori estimate of energy differences for nonlinear elliptic problems</a>. HAL preprint, hal-04033438.</li>
 <li> J.S. Stokke, K. Mitra, E. Storvik, J.W. Both, & F.A. Radu (2023). <a href="https://doi.org/10.48550/arXiv.2301.02055">An adaptive solution strategy for Richards' equation.</a> arXiv:2301.02055.</li><br>
 
 <h4> 2022 </h4>

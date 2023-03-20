@@ -489,7 +489,7 @@ Co-organizers: Dr. S. Sonner, V. Hissink Muller
 <tr><td colspan="2"> Robust Numerical Methods for Nonlinear Problems in Biology </td>
 <td>
 8 invited speakers, 2 sessions. <br>
-Co-organizer: Dr. Q. Peng, Dr. T. Köppl
+Co-organizer: <br> Dr. Q. Peng, Dr. T. Köppl
 </td></tr>
 
 

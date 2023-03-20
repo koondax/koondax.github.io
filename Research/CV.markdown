@@ -83,7 +83,12 @@ Independent <br> Researcher
 <i>Project: <a href="https://www.uhasselt.be/en/projects/detail/21495-project-r-12561">AdaPore</a> </i>: rigorous and fully adaptive model selection for multiphase flow through porous media.
 </td>
 </tr>
-
+<tr>
+<td colspan="4">
+Developed guaranteed, robust and efficient a-posteriori estimators for general nonlinear elliptic problems. 
+Used the results for an rigorous and adaptive linearization algorithm for the Richards equation.
+</td>
+</tr>
 
 
 

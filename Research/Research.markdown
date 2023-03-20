@@ -72,7 +72,7 @@ I am fascinated by how partial differential equations can explain the world arou
 <strong> Asymptotic analysis and upscaling</strong>: Homogenization, stability analysis, phase-fields.
 </li>
 <li>
-<strong> Computation</strong>: Adaptivity, data-drive simulations, post-processing and visualization,  parallelization, ODE solvers, Meshing, linear solvers.
+<strong> Computation</strong>: Adaptivity, data-driven simulations, post-processing and visualization,  parallelization, ODE solvers, Meshing, linear solvers.
 </li>
 </ul>
 
@@ -174,7 +174,7 @@ C.J. van Duijn, K. Mitra, & I.S. Pop (2018). <a href="https://doi.org/10.1016/j.
  
 <ul style="list-style-image: url('/icons/network.png');">
 <li style="list-style-image: url('/icons/mic.png');">
-[2022 Sep] <a href="https://www.uib.no/en/vista-csd/156560/csd-seminar-series-koondanibha-mitra/">
+[2023 Jul] <a href="https://www.uib.no/en/vista-csd/156560/csd-seminar-series-koondanibha-mitra/">
 Lorentz center workshop</a> 
 on <a href="https://www.lorentzcenter.nl/analysis-and-numerics-of-nonlinear-pdes-degeneracies-en-free-boundaries.html">Analysis
  and numerics of nonlinear PDEs: degeneracies \& free boundaries</a>, Leiden, The Netherlands.

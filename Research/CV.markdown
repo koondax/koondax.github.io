@@ -259,7 +259,7 @@ Was awarded this prestigious fellowship for a 3 year independent researcher posi
 
 
 <tr><td>
-<a href="https://www.oracle.com/be/research/project-awards/">Oracle for Research Grant</a>
+<a href="https://www.oracle.com/be/research/project-awards/"><i>Oracle for Research Grant</i></a>
 </td>
 <td>
 <a href="https://www.oracle.com/be/">Oracle</a> 
@@ -486,7 +486,7 @@ Co-organizers: Dr. S. Sonner, V. Hissink Muller
 <table>
 <tr><td>4-8 Sep, 2023</td><td>Lisbon, Portugal</td><td>
 <a href="https://enumath2023.com/">ENUMATH</a></td></tr>
-<tr><td colspan="2"> Robust Numerical Methods for Nonlinear Problems in Biology </td>
+<tr><td colspan="2"> Robust numerical methods for nonlinear problems in biology </td>
 <td>
 8 invited speakers, 2 sessions. <br>
 Co-organizers: <br> Dr. Q. Peng, Dr. T. Köppl

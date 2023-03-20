@@ -175,6 +175,12 @@ C.J. van Duijn, K. Mitra, & I.S. Pop (2018). <a href="https://doi.org/10.1016/j.
 <ul style="list-style-image: url('/icons/network.png');">
 <li style="list-style-image: url('/icons/mic.png');">
 [2022 Sep] <a href="https://www.uib.no/en/vista-csd/156560/csd-seminar-series-koondanibha-mitra/">
+Lorentz center workshop</a> 
+on <a href="https://www.lorentzcenter.nl/analysis-and-numerics-of-nonlinear-pdes-degeneracies-en-free-boundaries.html">Analysis
+ and numerics of nonlinear PDEs: degeneracies \& free boundaries</a>, Leiden, The Netherlands.
+</li>
+<li style="list-style-image: url('/icons/mic.png');">
+[2022 Sep] <a href="https://www.uib.no/en/vista-csd/156560/csd-seminar-series-koondanibha-mitra/">
 CSD Seminar</a>, Porous Media Group, Bergen, Norway.
 </li>
  <li   style="list-style-image: url('/icons/mic.png');">
@@ -224,8 +230,8 @@ European Finite Element Fair</a> (France), <a href="https://events.interpore.org
 
 <table>
 <tr><td>
-<ul><li>
-Applied Mathematics & Computation</li>
+<ul><li>SIAM Journal on Scientific Computing</li>
+<li>Applied Mathematics & Computation</li>
 <li>Advances in Water Resources</li>
 <li>Computational Geosciences</li>
 <li>Journal of Comp. & App. Mathematics</li></ul>
@@ -234,6 +240,7 @@ Applied Mathematics & Computation</li>
 <li>Journal of Num. Anal. & Appr. Theory </li>
 <li>Society of Petroleum Engineering Journal</li>
 <li>Transport in Porous Media</li>
+<li>Applied Numerical Mathematics</li>
 <li>ENUMATH 2017 Proceedings</li>
 </ul></td></tr>
 </table>

@@ -80,7 +80,8 @@ Independent <br> Researcher
 </tr>
 <tr>
 <td colspan="4">
-<i>Project: <a href="https://www.uhasselt.be/en/projects/detail/21495-project-r-12561">AdaPore</a> </i>: rigorous and fully adaptive model selection for multiphase flow through porous media.
+<i>Project: <a href="https://www.uhasselt.be/en/projects/detail/21495-project-r-12561">AdaPore</a>: rigorous and fully adaptive model selection for multiphase flow through porous media.
+</i>
 <br>
 Developed guaranteed, robust and efficient a-posteriori estimators for general nonlinear elliptic problems. 
 Used the results for an rigorous and adaptive linearization algorithm for the Richards equation.
@@ -288,8 +289,8 @@ Awarded a travel grant (15000 NOK) to visit University of Bergen (Norway) for co
 </tr>
 
 <tr><td colspan="2">
-<a href="https://ndns.nl/funding/"><i>NDNS+ grant </i></a> (2500 Euro) , 
-<i>Radboud internationalization grant </i>(2500 Euro)
+<a href="https://ndns.nl/funding/"><i>NDNS+ grant </i></a> (2500€) , 
+<i>Radboud internationalization grant </i>(2500€)
 </td>
 <td>
 2022

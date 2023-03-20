@@ -29,4 +29,4 @@ ML-based flux selection in reservoir scale problems using parallelly computed tr
 </li>
 </ol>
 
-<iframe src="/docs/Oracle-for-research.pdf" width="250"></iframe>
+<iframe src="/docs/Oracle-for-research.pdf" width="300"></iframe>

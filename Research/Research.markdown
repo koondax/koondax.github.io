@@ -63,16 +63,16 @@ I am fascinated by how partial differential equations can explain the world arou
 <ul style="list-style-image: url('/icons/integral.png');">
 <li> <strong>Applied analysis</strong>: Nonlinear degenerate PDEs, well-posedness, Rothe's method, free boundaries.</li>
 <li> <strong>Numerical analysis</strong>: Linear iterative techniques, a-posteriori error estimates, domain decomposition schemes, spatial discretizations including finite differences, elements, volumes.</li>
-<li> <strong>Special solutions</strong>: Travelling waves, similarity solutions,  entropy solutions, Riemann problems. </li>
+<li>
+<strong> Scientific computing</strong>: Adaptivity, data-driven simulations, post-processing and visualization,  parallelization, ODE solvers, Meshing, linear solvers.
+</li>
 <li> <strong>Modelling</strong>:</li>
 <ul style="list-style-image: url('/icons/modelling.png');"><li> Multiphase flow in porous medium, particularly, hysteresis and dynamic effects. </li>
 <li> Mathematical biology, in particular, biofilm growth. </li>
 </ul>
+<li> <strong>Special solutions</strong>: Travelling waves, similarity solutions,  entropy solutions, Riemann problems. </li>
 <li>
 <strong> Asymptotic analysis and upscaling</strong>: Homogenization, stability analysis, phase-fields.
-</li>
-<li>
-<strong> Computation</strong>: Adaptivity, data-driven simulations, post-processing and visualization,  parallelization, ODE solvers, Meshing, linear solvers.
 </li>
 </ul>
 
@@ -103,9 +103,6 @@ My Publications <a href="https://scholar.google.com/citations?user=q3wIdrIAAAAJ&
 <h4> In preparation </h4>
 <ul style="list-style-image: url('/icons/prepare.png');">
 <li>
-K. Mitra, & S. Sonner. <i>Well-posedness and properties of nonlinear coupled evolution problems modelling biofilm growth</i>.
-</li>
-<li>
 K. Mitra, & M. Vohralik. <i>Robust, reliable, & efficient a posteriori estimates for nonlinear elliptic problems: 
 An orthogonal decomposition result based on iterative linearization</i>.
 </li>
@@ -114,6 +111,10 @@ An orthogonal decomposition result based on iterative linearization</i>.
 
 <ul style="list-style-image: url('/icons/paper.png');">
 <h4> 2023 </h4>
+<li>
+K. Mitra, & S. Sonner (2023). <a href="https://doi.org/10.48550/arXiv.2304.00175"> Well-posedness and properties of nonlinear coupled evolution problems modelling biofilm growth</a>. arXiv:2304.00175.</li>
+</li>
+
 <li>
 A. Harnist, K. Mitra, A. Rappaport, & M. Vohralik (2023). <a href="https://hal.science/hal-04033438">Robust a posteriori estimate of energy differences for nonlinear elliptic problems</a>. HAL preprint, hal-04033438.</li>
 <li> J.S. Stokke, K. Mitra, E. Storvik, J.W. Both, & F.A. Radu (2023). <a href="https://doi.org/10.48550/arXiv.2301.02055">An adaptive solution strategy for Richards' equation.</a> arXiv:2301.02055.</li><br>

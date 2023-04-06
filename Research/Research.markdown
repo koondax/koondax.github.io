@@ -64,7 +64,7 @@ I am fascinated by how partial differential equations can explain the world arou
 <li> <strong>Applied analysis</strong>: Nonlinear degenerate PDEs, well-posedness, Rothe's method, free boundaries.</li>
 <li> <strong>Numerical analysis</strong>: Linear iterative techniques, a-posteriori error estimates, domain decomposition schemes, spatial discretizations including finite differences, elements, volumes.</li>
 <li>
-<strong> Scientific computing</strong>: Adaptivity, data-driven simulations, post-processing and visualization,  parallelization, ODE solvers, Meshing, linear solvers.
+<strong> Scientific computing</strong>: Adaptivity, data-driven simulations, post-processing and visualization,  parallelization, ODE solvers, meshing, linear solvers.
 </li>
 <li> <strong>Modelling</strong>:</li>
 <ul style="list-style-image: url('/icons/modelling.png');"><li> Multiphase flow in porous medium, particularly, hysteresis and dynamic effects. </li>
@@ -113,7 +113,6 @@ An orthogonal decomposition result based on iterative linearization</i>.
 <h4> 2023 </h4>
 <li>
 K. Mitra, & S. Sonner (2023). <a href="https://doi.org/10.48550/arXiv.2304.00175"> Well-posedness and properties of nonlinear coupled evolution problems modelling biofilm growth</a>. arXiv:2304.00175.</li>
-</li>
 
 <li>
 A. Harnist, K. Mitra, A. Rappaport, & M. Vohralik (2023). <a href="https://hal.science/hal-04033438">Robust a posteriori estimate of energy differences for nonlinear elliptic problems</a>. HAL preprint, hal-04033438.</li>

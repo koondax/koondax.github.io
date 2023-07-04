@@ -83,7 +83,7 @@ Independent <br> Researcher
 <i>Project: <a href="https://www.uhasselt.be/en/projects/detail/21495-project-r-12561">AdaPore</a>: rigorous and fully adaptive model selection for multiphase flow through porous media.
 </i>
 <br>
-Developed guaranteed, robust and efficient a-posteriori estimators for general nonlinear elliptic problems. 
+Developed guaranteed, robust and efficient a-posteriori estimators for general nonlinear elliptic problems (<a href="https://github.com/koondax/Aposteriori_elliptic.git">click here</a> for the FreeFem codes). 
 Used the results for a rigorous and adaptive linearization algorithm for the Richards equation.
 </td>
 </tr>

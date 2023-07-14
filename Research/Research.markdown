@@ -179,7 +179,11 @@ C.J. van Duijn, K. Mitra, & I.S. Pop (2018). <a href="https://doi.org/10.1016/j.
  
 <ul style="list-style-image: url('/icons/network.png');">
 <li>
-[2023 Jul] <a href="https://www.uib.no/en/vista-csd/156560/csd-seminar-series-koondanibha-mitra/">
+[2023 Nov] Workshop on <a href="https://pad.rz.tu-bs.de/p/r.a11acd3ccec89dd921b3cd59ecd20122">Interdisciplinary Research in Ecological
+ & Mathematical Analysis of Wildfire Hazards</a>, Braunschweig, Germany.
+</li>
+<li>
+[2023 Jul] <a href="https://www.lorentzcenter.nl/">
 Lorentz center workshop</a> 
 on <a href="https://www.lorentzcenter.nl/analysis-and-numerics-of-nonlinear-pdes-degeneracies-en-free-boundaries.html">Analysis
  & numerics of nonlinear PDEs: degeneracies & free boundaries</a>, Leiden, The Netherlands.
@@ -215,6 +219,9 @@ invited to give lectures on methods for nonlinear equations
 
 <h4>Selected Conference Talks</h4>
 <table>
+<tr><td>2023</td><td> 
+<a href="https://www.siam.org/conferences/cm/conference/gs23">SIAM Geosciences</a>, <a href="https://enumath2023.com/">ENUMATH</a>
+</td></tr>
 <tr><td>2022</td><td> 
 <a href="https://events.interpore.org/event/40/">INTERPORE</a> (UAE), <a href="https://cmwrconference.org/">Computational Methods in Water Resources (CMWR)</a> (Poland)
 </td></tr>
@@ -237,6 +244,7 @@ European Finite Element Fair</a> (France), <a href="https://events.interpore.org
 <tr><td>
 <ul><li>SIAM Journal on Scientific Computing</li>
 <li>Applied Mathematics & Computation</li>
+<li>Water Resources Research </li>
 <li>Advances in Water Resources</li>
 <li>Computational Geosciences</li>
 <li>Journal of Comp. & App. Mathematics</li></ul>

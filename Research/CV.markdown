@@ -488,7 +488,7 @@ Co-organizers: Dr. S. Sonner, V. Hissink Muller
 <a href="https://enumath2023.com/">ENUMATH</a></td></tr>
 <tr><td colspan="2"> Robust numerical methods for nonlinear problems in biology </td>
 <td>
-8 invited speakers, 2 sessions. <br>
+10 invited speakers, 3 sessions. <br>
 Co-organizers: <br> Dr. Q. Peng, Dr. T. Köppl
 </td></tr>
 

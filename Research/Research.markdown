@@ -103,14 +103,19 @@ My Publications <a href="https://scholar.google.com/citations?user=q3wIdrIAAAAJ&
 <h4> In preparation </h4>
 <ul style="list-style-image: url('/icons/prepare.png');">
 <li>
-K. Mitra, & M. Vohralik. <i>Robust, reliable, & efficient a posteriori estimates for nonlinear elliptic problems: 
-An orthogonal decomposition result based on iterative linearization</i>.
+R.K.H. Smeets, K. Mitra, S. Sonner, & I.S. Pop. <i> Robust time-discretization and linearization schemes for doubly degenerate evolution equations.</i>
 </li>
 </ul>
 <br>
 
 <ul style="list-style-image: url('/icons/paper.png');">
 <h4> 2023 </h4>
+
+<li>
+K. Mitra, & M. Vohralik. <a href="https://inria.hal.science/hal-04156711">Robust, reliable, & efficient a posteriori estimates for nonlinear elliptic problems: 
+An orthogonal decomposition result based on iterative linearization</a>. HAL Preprint, hal-04156711, v.1.
+</li>
+
 <li>
 K. Mitra, & S. Sonner (2023). <a href="https://doi.org/10.48550/arXiv.2304.00175"> Well-posedness and properties of nonlinear coupled evolution problems modelling biofilm growth</a>. arXiv:2304.00175.</li>
 

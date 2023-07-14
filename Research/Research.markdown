@@ -220,7 +220,7 @@ invited to give lectures on methods for nonlinear equations
 <h4>Selected Conference Talks</h4>
 <table>
 <tr><td>2023</td><td> 
-<a href="https://www.siam.org/conferences/cm/conference/gs23">SIAM Geosciences (Norway)</a>, <a href="https://enumath2023.com/">ENUMATH (Portugal)</a>
+<a href="https://www.siam.org/conferences/cm/conference/gs23">SIAM Geosciences</a> (Norway), <a href="https://enumath2023.com/">ENUMATH</a> (Portugal)
 </td></tr>
 <tr><td>2022</td><td> 
 <a href="https://events.interpore.org/event/40/">INTERPORE</a> (UAE), <a href="https://cmwrconference.org/">Computational Methods in Water Resources (CMWR)</a> (Poland)
@@ -254,6 +254,7 @@ European Finite Element Fair</a> (France), <a href="https://events.interpore.org
 <li>Society of Petroleum Engineering Journal</li>
 <li>Transport in Porous Media</li>
 <li>Applied Numerical Mathematics</li>
+<li>International Journal of Num. Anal. & Modeling</li>
 <li>ENUMATH 2017 Proceedings</li>
 </ul></td></tr>
 </table>

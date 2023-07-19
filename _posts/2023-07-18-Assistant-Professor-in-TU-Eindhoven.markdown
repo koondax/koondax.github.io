@@ -14,4 +14,4 @@ The greatest "घर वापसी" (home coming) of my life and a dream come 
 {% endhighlight %}
 
 
-<img src="/docs/Me-TUe.jpg" style="width:200px;">
+<img src="/docs/Me-TUe.jpg" style="width:300px;">

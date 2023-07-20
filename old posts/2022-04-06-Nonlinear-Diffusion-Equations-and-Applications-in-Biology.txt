@@ -1,9 +1,9 @@
----
-layout: post
-title:  "Nonlinear Diffusion Equations and Applications in Biology"
-date:   2022-04-06 02:00:00 +0100
-categories: jekyll update
----
+%---
+%layout: post
+%title:  "Nonlinear Diffusion Equations and Applications in Biology"
+%date:   2022-04-06 02:00:00 +0100
+%categories: jekyll update
+%---
 <h3><i>Dates:</i> July 6-8, 2022</h3>
 <h3><i>Location:</i> Radboud University, Nijmegen</h3>
 

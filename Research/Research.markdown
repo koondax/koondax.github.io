@@ -62,13 +62,14 @@ I am fascinated by how partial differential equations can explain the world arou
 <h2 id="Expertise"><img src="\icons\expertise.png" width="50"> Expertise</h2>
 <ul style="list-style-image: url('/icons/integral.png');">
 <li> <strong>Applied analysis</strong>: Nonlinear degenerate PDEs, well-posedness, Rothe's method, free boundaries.</li>
-<li> <strong>Numerical analysis</strong>: Linear iterative techniques, a-posteriori error estimates, domain decomposition schemes, spatial discretizations including finite differences, elements, volumes.</li>
+<li> <strong>Numerical analysis</strong>: Iterative methods, a-posteriori error estimates, domain decomposition schemes, spatial discretizations including finite differences, elements, volumes.</li>
 <li>
 <strong> Scientific computing</strong>: Adaptivity, data-driven simulations, post-processing and visualization,  parallelization, ODE solvers, meshing, linear solvers.
 </li>
 <li> <strong>Modelling</strong>:</li>
 <ul style="list-style-image: url('/icons/modelling.png');"><li> Multiphase flow in porous medium, particularly, hysteresis and dynamic effects. </li>
 <li> Mathematical biology, in particular, biofilm growth. </li>
+<li>Illumination optics.</li>
 </ul>
 <li> <strong>Special solutions</strong>: Travelling waves, similarity solutions,  entropy solutions, Riemann problems. </li>
 <li>

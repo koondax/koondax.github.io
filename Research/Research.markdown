@@ -104,7 +104,11 @@ My Publications <a href="https://scholar.google.com/citations?user=q3wIdrIAAAAJ&
 <h4> In preparation </h4>
 <ul style="list-style-image: url('/icons/prepare.png');">
 <li>
-R.K.H. Smeets, K. Mitra, S. Sonner, & I.S. Pop. <i> Robust time-discretization and linearization schemes for doubly degenerate evolution equations.</i>
+R.K.H. Smeets, K. Mitra, S. Sonner, & I.S. Pop. <i> Robust time-discretization and linearization schemes for degenerate and coupled evolution systems.</i>
+</li>
+
+<li>
+A. Javed, K. Mitra, & I.S. Pop. <i> Robust and adaptive linearization scheme for doubly degenerate evolution equations.</i>
 </li>
 </ul>
 <br>

@@ -121,14 +121,18 @@ K. Mitra, & S. Sonner (2023). <a href="https://doi.org/10.48550/arXiv.2304.00175
 
 <li>
 A. Harnist, K. Mitra, A. Rappaport, & M. Vohralik (2023). <a href="https://hal.science/hal-04033438">Robust a posteriori estimate of energy differences for nonlinear elliptic problems</a>. HAL preprint, hal-04033438.</li>
-<li> J.S. Stokke, K. Mitra, E. Storvik, J.W. Both, & F.A. Radu (2023). <a href="https://doi.org/10.48550/arXiv.2301.02055">An adaptive solution strategy for Richards' equation.</a> arXiv:2301.02055.</li><br>
+
+<li> J.S. Stokke, K. Mitra, E. Storvik, J.W. Both, & F.A. Radu (2023).
+<a href="https://doi.org/10.1016/j.camwa.2023.10.020"> An adaptive solution strategy for Richards' equation </a>, Computers & Mathematics with Applications,
+152, 155-167.</li>
+
 
 <h4> 2022 </h4>
 <li> K. Mitra, J.M. Hughes, S. Sonner, H.J. Eberl, & J.D. Dockery (2022). <a href="https://doi.org/10.48550/arXiv.2202.07748">Travelling waves in a PDE--ODE coupled system with nonlinear diffusion.</a>  Journal of Dynamics and Differential Equations <i>(to appear)</i>.</li><br>
 <h4> 2021 </h4>
 <li> K. Mitra, &  M. Vohralik (2021). <a href="https://hal.inria.fr/hal-03328944">A posteriori error estimates for the Richards equation.</a> HAL Preprint, hal-03328944. </li>
 <li> K. Mitra, & C.J. van Duijn (2021). <a href="https://doi.org/10.1007/s10596-021-10106-6">Capillary hysteresis and gravity segregation in two phase flow through porous media.</a> Computational Geosciences, 26(1), 101-114. </li>
-<li> K. Mitra. (2021). <a href="https://doi.org/10.1016/j.jde.2021.04.009">Existence and properties of solutions of the extended play-type hysteresis model.</a> 	Journal of Differential Equations, 288, 118-140.</li>
+<li> K. Mitra (2021). <a href="https://doi.org/10.1016/j.jde.2021.04.009">Existence and properties of solutions of the extended play-type hysteresis model.</a> 	Journal of Differential Equations, 288, 118-140.</li>
 <br>
 
 <h4> 2020 </h4>

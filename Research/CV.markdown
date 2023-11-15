@@ -66,13 +66,38 @@ their work might bear'
 <table>
 <tr>
 <td>
-2022 Jun-
+2023 Nov-
+</td>
+<td>
+<a href="https://research.tue.nl/en/persons/koondanibha-mitra">Assistant</a> <br> 
+<a href="https://research.tue.nl/en/persons/koondanibha-mitra"> Professor</a>
+</td>
+<td>
+<a href="https://www.tue.nl/">TU Eindhoven</a>, The Netherlands
+</td>
+<td>
+
+</td>
+</tr>
+<tr>
+<td colspan="4">
+<a href="https://casa.win.tue.nl/home/">CASA</a>: Centre for Analysis, Scientific Computing and Applications, 
+<i>Mathematics and Computer Science Department</i>
+<br>
+Group: <a href="https://www.win.tue.nl/~martijna/Optics/"> Computational Illumination Optics</a>
+</td>
+</tr>
+
+
+<tr>
+<td>
+2022-2023
 </td>
 <td>
 Independent <br> Researcher
 </td>
 <td>
-<a href="https://www.ru.nl/">Hasselt University</a>, Belgium
+<a href="https://www.uhasselt.be/">Hasselt University</a>, Belgium
 </td>
 <td>
 

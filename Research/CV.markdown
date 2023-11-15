@@ -362,7 +362,17 @@ Hasselt University
 </td></tr>
 
 <tr><td>
-<b>Co-supervising</b> masters thesis of <i>R.K.H. Smeets</i> 
+<b>Instructor</b> for <i>Analysis I</i> course, Mathematics
+</td>
+<td>
+TU Eindhoven
+</td>
+<td>
+2023-24
+</td></tr>
+
+<tr><td>
+<b>Co-supervised</b> masters thesis of <i>R.K.H. Smeets</i> 
 </td>
 <td>
 Radboud University

@@ -117,7 +117,7 @@ A. Javed, K. Mitra, & I.S. Pop. <i> Robust and adaptive linearization scheme for
 <h4> 2023 </h4>
 
 <li>
-K. Mitra, & M. Vohralik. <a href="https://inria.hal.science/hal-04156711">Robust, reliable, & efficient a posteriori estimates for nonlinear elliptic problems: 
+K. Mitra, & M. Vohralik (2023). <a href="https://inria.hal.science/hal-04156711">Robust, reliable, & efficient a posteriori estimates for nonlinear elliptic problems: 
 An orthogonal decomposition result based on iterative linearization</a>. HAL Preprint, hal-04156711, v.1.
 </li>
 
@@ -131,9 +131,11 @@ A. Harnist, K. Mitra, A. Rappaport, & M. Vohralik (2023). <a href="https://hal.s
 <a href="https://doi.org/10.1016/j.camwa.2023.10.020"> An adaptive solution strategy for Richards' equation </a>. Computers & Mathematics with Applications,
 152, 155-167.</li>
 
-<li> K. Mitra, &  M. Vohralik (2021). <a href="https://hal.inria.fr/hal-03328944">A posteriori error estimates for the Richards equation.</a> Mathematics of Computation <i>(accepted)</i>,  HAL Preprint, hal-03328944. </li>
+<li> K. Mitra, &  M. Vohralik (2023). <a href="https://hal.inria.fr/hal-03328944">A posteriori error estimates for the Richards equation.</a> Mathematics of Computation <i>(accepted)</i>,  HAL Preprint, hal-03328944. </li>
 
 <br>
+
+
 
 <h4> 2022 </h4>
 <li> K. Mitra, J.M. Hughes, S. Sonner, H.J. Eberl, & J.D. Dockery (2022). <a href="https://doi.org/10.48550/arXiv.2202.07748">Travelling waves in a PDE--ODE coupled system with nonlinear diffusion.</a>  Journal of Dynamics and Differential Equations <i>(to appear)</i>.</li><br>

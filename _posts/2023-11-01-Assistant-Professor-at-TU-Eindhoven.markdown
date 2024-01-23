@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Assistant Professor in TU Eindhoven"
+title:  "Assistant Professor at TU Eindhoven"
 date:   2023-11-01 12:00:00 +0100
 categories: jekyll update
 ---

@@ -505,7 +505,18 @@ IIT Kharagpur
 <h2 id="Management"><img src="/icons/responsibility.png" width="50"> Management</h2>
 
 
-<h4> Conference Organization</h4>
+<h4> Conference/Workshop Organization</h4>
+<table>
+<tr><td>24-27 July, 2024</td><td>Hasselt, Belgium</td><td>
+Summer School: <i>Adaptive methods and a posteriori error estimation</i></td></tr>
+<tr><td colspan="2"> Co-organizers: Prof. I.S. Pop, Prof. F. Vermolen, Prof. J. Schuetz</td>
+<td>
+Prof. M. Vohralik and I would give detailed lectures.
+</td></tr>
+</table>
+
+
+
 <table>
 <tr><td>6-8 July, 2022</td><td>Nijmegen, The Netherlands</td><td>
 <a href="https://www.ru.nl/math/research/vmconferences/nonlinear-diffusion-equations-applications-biology/">Nonlinear Diffusion Equations and Applications in Biology</a></td></tr>

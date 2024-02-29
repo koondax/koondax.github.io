@@ -121,7 +121,7 @@ A. Javed, K. Mitra, & I.S. Pop. <i> Robust and adaptive linearization scheme for
 
 <li> K. Mitra, &  M. Vohralik (2024). <a href="https://doi.org/10.1090/mcom/3932">A posteriori error estimates for the Richards equation.</a> Mathematics of Computation,  93, 1053-1096. </li>
 
-<li> K. Mitra, Q. Peng, & C. Reisch (2024). <a href="https://doi.org/10.48550/arXiv.2401.17468"> Studying wildfire fronts using advection-diffusion-reaction models</a>. arXiv:2401.17468v1</li>
+<li> K. Mitra, Q. Peng, & C. Reisch (2024). <a href="https://doi.org/10.48550/arXiv.2401.17468"> Studying wildfire fronts using advection-diffusion-reaction models</a>. arXiv:2401.17468v1.</li>
 
 
 <br>
@@ -148,7 +148,11 @@ A. Harnist, K. Mitra, A. Rappaport, & M. Vohralik (2023). <a href="https://hal.s
 
 
 <h4> 2022 </h4>
-<li> K. Mitra, J.M. Hughes, S. Sonner, H.J. Eberl, & J.D. Dockery (2022). <a href="https://doi.org/10.48550/arXiv.2202.07748">Travelling waves in a PDE--ODE coupled system with nonlinear diffusion.</a>  Journal of Dynamics and Differential Equations <i>(to appear)</i>.</li><br>
+<li> K. Mitra, J.M. Hughes, S. Sonner, H.J. Eberl, & J.D. Dockery (2022). <a href="https://doi.org/10.1007/s10884-022-10240-4">Travelling Waves in a PDE–ODE Coupled Model of Cellulolytic Biofilms with Nonlinear Diffusion. 
+</a> Journal of Dynamics and Differential Equations, 1-35.</li>
+
+<br>
+
 <h4> 2021 </h4>
 <li> K. Mitra, & C.J. van Duijn (2021). <a href="https://doi.org/10.1007/s10596-021-10106-6">Capillary hysteresis and gravity segregation in two phase flow through porous media.</a> Computational Geosciences, 26(1), 101-114. </li>
 <li> K. Mitra (2021). <a href="https://doi.org/10.1016/j.jde.2021.04.009">Existence and properties of solutions of the extended play-type hysteresis model.</a> 	Journal of Differential Equations, 288, 118-140.</li>

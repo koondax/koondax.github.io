@@ -549,6 +549,20 @@ Co-organizer: Dr. S.B. Luonwa
 </table>
 
 
+<h4> Departmental work </h4>
+<table>
+<tr><td>
+2024 Jan-
+</td><td>
+Co-organizer <a href="https://casa.win.tue.nl/events/">CASA colloduium</a>
+</td></tr>
+<tr><td> 2023 Dec-
+</td><td>
+Member of the <a href="https://educationguide.tue.nl/practical-info/it-services?l=&cHash=ad1c75a7e7132ce40ecade518ee10a29">ICT</a> Operations committee (M&CS dept)
+</td></tr>
+</table>
+
+
 <h4> Entrepreneurship </h4>
 <table>
 <tr><td><img src="/Pictures/companylogo_PDC.jpg" width="100"></td><td>2013-15 </td><td>  Portable Diagnostic Center (PDC) </td></tr>

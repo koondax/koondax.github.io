@@ -117,12 +117,14 @@ A. Javed, K. Mitra, & I.S. Pop. <i> Robust and adaptive linearization scheme for
 <ul style="list-style-image: url('/icons/paper.png');">
 <h4> 2024 </h4>
 
-<li> K. Mitra, A. Ratz, & B. Schweizer (2024). <a href="https://doi.org/10.48550/arXiv.2011.10792"> Travelling wave solutions for gravity fingering in porous media flows.</a> Journal of Differential Equations, <i>(accepted)</i>, arXiv:2011.10792. </li>
+<li> K. Mitra, A. Ratz, & B. Schweizer (2024). <a href="https://doi.org/10.48550/arXiv.2011.10792"> Travelling wave solutions for gravity fingering in porous media flows.</a> Journal of Differential Equations <i>(accepted)</i>, arXiv:2011.10792. </li>
 
 <li> K. Mitra, &  M. Vohralik (2024). <a href="https://doi.org/10.1090/mcom/3932">A posteriori error estimates for the Richards equation.</a> Mathematics of Computation,  93, 1053-1096. </li>
 
 <li> K. Mitra, Q. Peng, & C. Reisch (2024). <a href="https://doi.org/10.48550/arXiv.2401.17468"> Studying wildfire fronts using advection-diffusion-reaction models</a>. arXiv:2401.17468v1</li>
 
+
+<br>
 
 <h4> 2023 </h4>
 

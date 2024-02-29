@@ -113,6 +113,17 @@ A. Javed, K. Mitra, & I.S. Pop. <i> Robust and adaptive linearization scheme for
 </ul>
 <br>
 
+
+<ul style="list-style-image: url('/icons/paper.png');">
+<h4> 2024 </h4>
+
+<li> K. Mitra, A. Ratz, & B. Schweizer (2024). <a href="https://doi.org/10.48550/arXiv.2011.10792"> Travelling wave solutions for gravity fingering in porous media flows.</a> Journal of Differential Equations, <i>(accepted)</i>, arXiv:2011.10792. </li>
+
+<li> K. Mitra, &  M. Vohralik (2024). <a href="https://doi.org/10.1090/mcom/3932">A posteriori error estimates for the Richards equation.</a> Mathematics of Computation,  93, 1053-1096. </li>
+
+<li> K. Mitra, Q. Peng, & C. Reisch (2024). <a href="https://doi.org/10.48550/arXiv.2401.17468"> Studying wildfire fronts using advection-diffusion-reaction models</a>. arXiv:2401.17468v1</li>
+
+
 <ul style="list-style-image: url('/icons/paper.png');">
 <h4> 2023 </h4>
 
@@ -131,8 +142,6 @@ A. Harnist, K. Mitra, A. Rappaport, & M. Vohralik (2023). <a href="https://hal.s
 <a href="https://doi.org/10.1016/j.camwa.2023.10.020"> An adaptive solution strategy for Richards' equation </a>. Computers & Mathematics with Applications,
 152, 155-167.</li>
 
-<li> K. Mitra, &  M. Vohralik (2023). <a href="https://hal.inria.fr/hal-03328944">A posteriori error estimates for the Richards equation.</a> Mathematics of Computation <i>(accepted)</i>,  HAL Preprint, hal-03328944. </li>
-
 <br>
 
 
@@ -145,8 +154,6 @@ A. Harnist, K. Mitra, A. Rappaport, & M. Vohralik (2023). <a href="https://hal.s
 <br>
 
 <h4> 2020 </h4>
-<li> K. Mitra, A. Ratz, & B. Schweizer (2020). <a href="https://www.researchgate.net/publication/345732950_Travelling_wave_solutions_for_gravity_fingering_in_porous_media_flows">
-Travelling wave solutions for gravity fingering in porous media flows.</a> arXiv:2011.10792. </li>
 <li> K. Mitra, T. Koeppl, I.S. Pop, C.J. van Duijn, & R. Helmig (2020). <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/sapm.12304">Fronts in two-phase porous media flow problems: 
 the effects of hysteresis and dynamic capillarity.</a> Studies in Applied Mathematics, 144(4), 449-492.</li>
 

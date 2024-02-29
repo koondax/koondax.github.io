@@ -124,7 +124,6 @@ A. Javed, K. Mitra, & I.S. Pop. <i> Robust and adaptive linearization scheme for
 <li> K. Mitra, Q. Peng, & C. Reisch (2024). <a href="https://doi.org/10.48550/arXiv.2401.17468"> Studying wildfire fronts using advection-diffusion-reaction models</a>. arXiv:2401.17468v1</li>
 
 
-<ul style="list-style-image: url('/icons/paper.png');">
 <h4> 2023 </h4>
 
 <li>

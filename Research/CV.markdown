@@ -508,7 +508,8 @@ IIT Kharagpur
 <h4> Conference/Workshop Organization</h4>
 <table>
 <tr><td>24-27 July, 2024</td><td>Hasselt, Belgium</td><td>
-Summer School: <i>Adaptive methods and a posteriori error estimation</i></td></tr>
+<a href="https://www.uhasselt.be/en/doctoral-schools/academic-research-competences-course-offer/summer-school-on-adaptive-methods-and-a-posteriori-error-estimation">
+Summer School: <i>Adaptive methods and a posteriori error estimation</i></a></td></tr>
 <tr><td colspan="2"> Co-organizers: Prof. I.S. Pop, Prof. F. Vermolen, Prof. J. Schuetz</td>
 <td>
 Prof. M. Vohralik and I would give detailed lectures.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "We are hiring PhDs"
-date:   2024-12-03 12:00:00 +0100
+date:   2024-03-12 12:00:00 +0100
 categories: jekyll update
 ---
 

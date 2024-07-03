@@ -507,12 +507,12 @@ IIT Kharagpur
 
 <h4> Conference/Workshop Organization</h4>
 <table>
-<tr><td>24-27 July, 2024</td><td>Hasselt, Belgium</td><td>
+<tr><td>24-27 June, 2024</td><td>Hasselt, Belgium</td><td>
 <a href="https://www.uhasselt.be/en/doctoral-schools/academic-research-competences-course-offer/summer-school-on-adaptive-methods-and-a-posteriori-error-estimation">
 Summer School: <i>Adaptive methods and a posteriori error estimation</i></a></td></tr>
 <tr><td colspan="2"> Co-organizers: Prof. I.S. Pop, Prof. F. Vermolen, Prof. J. Schuetz</td>
 <td>
-Prof. M. Vohralik (Inria Paris), Dr. E. Ahmed (SINTEF), and I would gave detailed lectures.
+Prof. <a href="https://who.rocq.inria.fr/Martin.Vohralik/">M. Vohralik</a> (Inria Paris), Dr. <a href="https://www.sintef.no/en/all-employees/employee/elyes.ahmed/"> E. Ahmed </a>(SINTEF), and I gave detailed lectures.
 <br>
 Number of participants ~ 40
 </td></tr>

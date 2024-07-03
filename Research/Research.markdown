@@ -103,9 +103,6 @@ My Publications <a href="https://scholar.google.com/citations?user=q3wIdrIAAAAJ&
 
 <h4> In preparation </h4>
 <ul style="list-style-image: url('/icons/prepare.png');">
-<li>
-R.K.H. Smeets, K. Mitra, S. Sonner, & I.S. Pop. <i> Robust time-discretization and linearization schemes for degenerate and coupled evolution systems.</i>
-</li>
 
 <li>
 A. Javed, K. Mitra, & I.S. Pop. <i> Robust and adaptive linearization scheme for doubly degenerate evolution equations.</i>
@@ -116,6 +113,10 @@ A. Javed, K. Mitra, & I.S. Pop. <i> Robust and adaptive linearization scheme for
 
 <ul style="list-style-image: url('/icons/paper.png');">
 <h4> 2024 </h4>
+
+<li>
+R.K.H. Smeets, K. Mitra, S. Sonner, & I.S. Pop (2024). <a href="https://doi.org/10.48550/arXiv.2404.00391"> Robust time-discretisation and linearisation schemes for singular and degenerate evolution systems modelling biofilm growth. </a>   arXiv:2404.00391v2.
+</li>
 
 <li> K. Mitra, A. Ratz, & B. Schweizer (2024). <a href="https://doi.org/10.1016/j.jde.2024.02.036"> Travelling wave solutions for gravity fingering in porous media flows.</a> Journal of Differential Equations, 394, 120-151. </li>
 
@@ -244,6 +245,9 @@ invited to give lectures on methods for nonlinear equations
 
 <h4>Selected Conference Talks</h4>
 <table>
+<tr><td>2024</td><td> 
+<a href="https://ins.uni-bonn.de/group/gedicke/page/cmam-10">CMAM</a> (Germany), <a href="https://www.math.sk/alg2024/">Algoritmy</a> (Slovakia)
+</td></tr>
 <tr><td>2023</td><td> 
 <a href="https://www.siam.org/conferences/cm/conference/gs23">SIAM Geosciences</a> (Norway), <a href="https://enumath2023.com/">ENUMATH</a> (Portugal)
 </td></tr>

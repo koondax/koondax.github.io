@@ -512,7 +512,9 @@ IIT Kharagpur
 Summer School: <i>Adaptive methods and a posteriori error estimation</i></a></td></tr>
 <tr><td colspan="2"> Co-organizers: Prof. I.S. Pop, Prof. F. Vermolen, Prof. J. Schuetz</td>
 <td>
-Prof. M. Vohralik and I would give detailed lectures.
+Prof. M. Vohralik (Inria Paris), Dr. E. Ahmed (SINTEF), and I would gave detailed lectures.
+<br>
+Number of participants ~ 40
 </td></tr>
 </table>
 

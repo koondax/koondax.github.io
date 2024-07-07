@@ -362,13 +362,23 @@ Hasselt University
 </td></tr>
 
 <tr><td>
-<b>Co-supervising</b> masters thesis of <i>A. Javed</i>
+<b>Co-supervising</b> masters thesis of <i>J.A. Geurts</i>
 </td>
 <td>
 Radboud University
 </td>
 <td>
 2024-
+</td></tr>
+
+<tr><td>
+<b>Responsible lecturer</b> for <i>Mathematics 2</i>, Electrical and Automative Engg 
+</td>
+<td>
+TU Eindhoven (>250 students)
+</td>
+<td>
+2024
 </td></tr>
 
 <tr><td>

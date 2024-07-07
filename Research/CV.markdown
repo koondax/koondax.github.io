@@ -372,10 +372,10 @@ Radboud University
 </td></tr>
 
 <tr><td>
-<b>Responsible lecturer</b> for <i>Mathematics 2</i>, Electrical and Automative Engg 
+<b>Responsible lecturer</b> for <i>Mathe 2</i>, Electrical and Automative Engineering (>250 students)
 </td>
 <td>
-TU Eindhoven (>250 students)
+TU Eindhoven 
 </td>
 <td>
 2024
@@ -525,7 +525,8 @@ IIT Kharagpur
 <h2 id="Management"><img src="/icons/responsibility.png" width="50"> Management</h2>
 
 
-<h4> Conference/Workshop Organization</h4>
+<h4> Conference/Worshop Organization</h4>
+
 <table>
 <tr><td>24-27 June, 2024</td><td>Hasselt, Belgium</td><td>
 <a href="https://www.uhasselt.be/en/doctoral-schools/academic-research-competences-course-offer/summer-school-on-adaptive-methods-and-a-posteriori-error-estimation">

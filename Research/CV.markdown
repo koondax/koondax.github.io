@@ -362,6 +362,16 @@ Hasselt University
 </td></tr>
 
 <tr><td>
+<b>Co-supervising</b> masters thesis of <i>A. Javed</i>
+</td>
+<td>
+Radboud University
+</td>
+<td>
+2024-
+</td></tr>
+
+<tr><td>
 <b>Instructor</b> for <i>Analysis I</i> course, Mathematics
 </td>
 <td>

@@ -372,13 +372,23 @@ Radboud University
 </td></tr>
 
 <tr><td>
-<b>Responsible lecturer</b> for <i>Mathe 2</i>, Electrical and Automative Engineering (>250 students)
+<b>Responsible lecturer</b> for <i>Math 2</i>, Electrical and Automative Engineering (>250 students)
 </td>
 <td>
 TU Eindhoven 
 </td>
 <td>
 2024
+</td></tr>
+
+<tr><td>
+<b>Supervisor</b> masters thesis of <i>K.T.W. Menting</i>, 
+</td>
+<td>
+TU Eindhoven 
+</td>
+<td>
+2023-24
 </td></tr>
 
 <tr><td>

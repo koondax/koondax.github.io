@@ -119,7 +119,7 @@ J.H.M. ten Thije Boonkkamp, K. Mitra, M.J.H. Anthonissen, L. Kusch, P. Braam, & 
 </li>
 
 <li>
-R. Hacking, L. Kusch, K. Mitra, M.J.H. Anthonissen, W.L. IJzerman (2024). <a href="https://arxiv.org/abs/2410.19496">A neural network approach for solving the Monge-Ampère equation with transport boundary condition. </a>   arXiv:2410.19496.
+R. Hacking, L. Kusch, K. Mitra, M.J.H. Anthonissen, & W.L. IJzerman (2024). <a href="https://arxiv.org/abs/2410.19496">A neural network approach for solving the Monge-Ampère equation with transport boundary condition. </a>   arXiv:2410.19496.
 </li>
 
 <li>
@@ -213,7 +213,10 @@ C.J. van Duijn, K. Mitra, & I.S. Pop (2018). <a href="https://doi.org/10.1016/j.
  
 <ul style="list-style-image: url('/icons/network.png');">
 <li>
-[2024 Dec]  <a href="https://mox.polimi.it/seminars-full-list/">MOX, Politecnico de Milano</a>, Milan, Italy: invited speaker.
+[2024 Oct]  <a href="https://www.tuwien.at/mg/asc/numpdes">Numerics of PDEs group, TU Wien</a>, Vienna, Austria: research visit.
+</li>
+<li>
+[2023 Dec]  <a href="https://mox.polimi.it/seminars-full-list/">MOX, Politecnico de Milano</a>, Milan, Italy: invited speaker.
 </li>
 <li>
 [2023 Nov] Workshop on <a href="https://pad.rz.tu-bs.de/p/r.a11acd3ccec89dd921b3cd59ecd20122">Interdisciplinary Research in Ecological

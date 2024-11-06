@@ -115,6 +115,14 @@ A. Javed, K. Mitra, & I.S. Pop. <i> Robust and adaptive linearization scheme for
 <h4> 2024 </h4>
 
 <li>
+J.H.M. ten Thije Boonkkamp, K. Mitra, M.J.H. Anthonissen, L. Kusch, P. Braam, & W.L. IJzerman (2024). <a href="https://arxiv.org/abs/2411.00758">Inverse methods for freeform optical design. </a>   arXiv:2411.00758.
+</li>
+
+<li>
+R. Hacking, L. Kusch, K. Mitra, M.J.H. Anthonissen, W.L. IJzerman (2024). <a href="https://arxiv.org/abs/2410.19496">A neural network approach for solving the Monge-Ampère equation with transport boundary condition. </a>   arXiv:2410.19496.
+</li>
+
+<li>
 R.K.H. Smeets, K. Mitra, S. Sonner, & I.S. Pop (2024). <a href="https://doi.org/10.48550/arXiv.2404.00391"> Robust time-discretisation and linearisation schemes for singular and degenerate evolution systems modelling biofilm growth. </a>   arXiv:2404.00391v2.
 </li>
 
@@ -122,7 +130,7 @@ R.K.H. Smeets, K. Mitra, S. Sonner, & I.S. Pop (2024). <a href="https://doi.org/
 
 <li> K. Mitra, &  M. Vohralik (2024). <a href="https://doi.org/10.1090/mcom/3932">A posteriori error estimates for the Richards equation.</a> Mathematics of Computation,  93, 1053-1096. </li>
 
-<li> K. Mitra, Q. Peng, & C. Reisch (2024). <a href="https://doi.org/10.48550/arXiv.2401.17468"> Studying wildfire fronts using advection-diffusion-reaction models</a>. arXiv:2401.17468v1.</li>
+<li> K. Mitra, Q. Peng, & C. Reisch (2024). <a href="https://doi.org/10.48550/arXiv.2401.17468"> Studying wildfire fronts using advection-diffusion-reaction models</a>. ENUMATH Proceedings (accepted), arXiv:2401.17468v1.</li>
 
 
 <br>

@@ -347,12 +347,21 @@ Selected among 30 applicants to receive the travel award for participating in th
 
 
 
-<h2 id="Teaching"><img src="/icons/teaching.png"> Teaching and Supervision</h2>
+<h2 id="Teaching"><img src="/icons/teaching.png"> Teaching and Supervision</h2>ssss
 <table>
 
+<tr><td>
+<b>Supervising</b> doctoral thesis of <a href="https://www.uhasselt.be/en/who-is-who/ayesha-javed"><i>R. Köhle</i></a> 
+</td>
+<td>
+Eindhoven University of Technology
+</td>
+<td>
+2024-
+</td></tr>
 
 <tr><td>
-<b>Co-supervising</b> doctoral thesis of <a href="https://www.uhasselt.be/en/who-is-who/ayesha-javed"><i>A. Javed</i></a> 
+<b>Co-supervising</b> doctoral thesis of <a href="https://www.uhasselt.be/en/who-is-who/ayesha-javed"><i>A. Javed</a> & <a href="https://www.uhasselt.be/nl/wie-is-wie/detail/jesse-aerts">J. Aerts</i></a> 
 </td>
 <td>
 Hasselt University
@@ -372,13 +381,23 @@ Radboud University
 </td></tr>
 
 <tr><td>
-<b>Responsible lecturer</b> for <i>Math 2</i>, Electrical and Automative Engineering (>250 students)
+<b>Responsible lecturer</b> for <i>Math 2</i>, Electrical and Automative Engineering (>400 students)
 </td>
 <td>
 TU Eindhoven 
 </td>
 <td>
-2024
+2024-25
+</td></tr>
+
+<tr><td>
+<b>Responsible lecturer</b> of bachelors course <i>Partial differential equations</i>, Mathematics
+</td>
+<td>
+TU Eindhoven
+</td>
+<td>
+2024-25
 </td></tr>
 
 <tr><td>
@@ -459,6 +478,7 @@ Radboud University
 2021-22
 </td></tr>
 
+<!----------------------------------------
 <tr><td>
 <b>Co-supervised</b> masters thesis of <a href="https://scholar.google.com/citations?user=q211zTUAAAAJ&hl=en"><i>S.B. Lunowa</i></a> & <i>F. List</i>
 </td>
@@ -509,7 +529,7 @@ TU Eindhoven
 <td>
 2017
 </td></tr>
-
+------------------------->
 
 <tr><td>
 <b>Voluntary teacher</b> at <i> Sramajibi Vidyalaya</i> for underpriviledged children </td>
@@ -539,7 +559,7 @@ IIT Kharagpur
 <tr><td>
 2025 Jan-
 </td><td>
-Member Calculus redesign committee
+Member <i>Calculus redesign committee</i>
 </td></tr>
 <tr><td>
 2024 Jan-
@@ -586,7 +606,7 @@ Co-organizers: Dr. S. Sonner, V. Hissink Muller
 <tr><td>1-5 Sep, 2025</td><td>Hiedelberg, Germany</td><td>
 <a href="https://enumath2025.eu/">ENUMATH</a></td></tr>
 <tr><td colspan="2"> 
- MS27 - Monge-Ampère Equations </br>
+ MS27 - Monge-Ampère Equations <br>
   MS06 - Mathematical Modelling in Wildfire Spread 
 </td>
 <td>

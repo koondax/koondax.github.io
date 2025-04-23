@@ -213,7 +213,16 @@ C.J. van Duijn, K. Mitra, & I.S. Pop (2018). <a href="https://doi.org/10.1016/j.
  
 <ul style="list-style-image: url('/icons/network.png');">
 <li>
-[2024 Oct]  <a href="https://www.tuwien.at/mg/asc/numpdes">Numerics of PDEs group, TU Wien</a>, Vienna, Austria: research visit.
+[2025 Apr] Invited talk at <a href="https://mathematischcongres.nl/nmc-2025/ndns-2025/">Netherlands Mathematical Congress.</a> 
+</li>
+<li>
+[2025 Apr] <a href="https://www.uni-jena.de/en">Friedrich-Schiller-Universität Jena</a>, Jena, Germany: invited research visit.
+</li>
+<li>
+[2025 Mar] Invited research visit at <a href="https://www.kanazawa-u.ac.jp/en/">Kanazawa University</a> and <a href="https://ashbi.kyoto-u.ac.jp/">ASHBI Kyoto University </a> in Japan. Invited talk at <a href="https://jftrabago.github.io/MNANP2025/">MNANP2025</a>
+</li>
+<li>
+[2024 Oct]  <a href="https://www.tuwien.at/mg/asc/numpdes">Numerics of PDEs group, TU Wien</a>, Vienna, Austria: invited research visit.
 </li>
 <li>
 [2023 Dec]  <a href="https://mox.polimi.it/seminars-full-list/">MOX, Politecnico de Milano</a>, Milan, Italy: invited speaker.

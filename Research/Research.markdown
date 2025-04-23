@@ -111,11 +111,21 @@ A. Javed, K. Mitra, & I.S. Pop. <i> Robust and adaptive linearization scheme for
 <br>
 
 
+<h4> 2025 </h4>
+<ul style="list-style-image: url('/icons/paper.png');">
+
+<li>
+P. Braam, J.H.M ten Thije Boonkkamp, M.J.H. Anthonissen, K. Mitra, R. Beltman, W.L. IJzerman. <a href="
+https://doi.org/10.48550/arXiv.2503.17199"> Inverse freeform design of a parallel-to-two-target reflector system.</a> 	arXiv:2503.17199.
+</li>
+</ul>
+<br>
+
 <ul style="list-style-image: url('/icons/paper.png');">
 <h4> 2024 </h4>
 
 <li>
-J.H.M. ten Thije Boonkkamp, K. Mitra, M.J.H. Anthonissen, L. Kusch, P. Braam, & W.L. IJzerman (2024). <a href="https://arxiv.org/abs/2411.00758">Inverse methods for freeform optical design. </a>   arXiv:2411.00758.
+J.H.M. ten Thije Boonkkamp, K. Mitra, M.J.H. Anthonissen, L. Kusch, P. Braam, & W.L. IJzerman (2024). <a href="https://www.frontiersin.org/journals/physics/articles/10.3389/fphy.2025.1518660/abstract">Inverse methods for freeform optical design. </a>   Frontiers: Optics and Photonics, vol. 13, 2025.
 </li>
 
 <li>
@@ -219,7 +229,7 @@ C.J. van Duijn, K. Mitra, & I.S. Pop (2018). <a href="https://doi.org/10.1016/j.
 [2025 Apr] <a href="https://www.uni-jena.de/en">Friedrich-Schiller-Universität Jena</a>, Jena, Germany: invited research visit.
 </li>
 <li>
-[2025 Mar] Invited research visit at <a href="https://www.kanazawa-u.ac.jp/en/">Kanazawa University</a> and <a href="https://ashbi.kyoto-u.ac.jp/">ASHBI Kyoto University </a> in Japan. Invited talk at <a href="https://jftrabago.github.io/MNANP2025/">MNANP2025</a>
+[2025 Mar] Invited research visit at <a href="https://www.kanazawa-u.ac.jp/en/">Kanazawa University</a> and <a href="https://ashbi.kyoto-u.ac.jp/">ASHBI Kyoto University </a> in Japan. Invited talk at <a href="https://jftrabago.github.io/MNANP2025/">MNANP2025</a>.
 </li>
 <li>
 [2024 Oct]  <a href="https://www.tuwien.at/mg/asc/numpdes">Numerics of PDEs group, TU Wien</a>, Vienna, Austria: invited research visit.
@@ -268,6 +278,9 @@ invited to give lectures on methods for nonlinear equations
 
 <h4>Selected Conference Talks</h4>
 <table>
+<tr><td>2025</td><td> 
+<a href="https://jftrabago.github.io/MNANP2025/">MNANP2025</a> (Japan)
+</td></tr>
 <tr><td>2024</td><td> 
 <a href="https://ins.uni-bonn.de/group/gedicke/page/cmam-10">CMAM</a> (Germany), <a href="https://www.math.sk/alg2024/">Algoritmy</a> (Slovakia)
 </td></tr>

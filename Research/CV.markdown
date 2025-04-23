@@ -351,7 +351,7 @@ Selected among 30 applicants to receive the travel award for participating in th
 <table>
 
 <tr><td>
-<b>Supervising</b> doctoral thesis of <a href="https://www.uhasselt.be/en/who-is-who/ayesha-javed"><i>R. Köhle</i></a> 
+<b>Supervising</b> doctoral thesis of <a href="https://research.tue.nl/nl/persons/ren%C3%A9-k%C3%B6hle"><i>R. Köhle</i></a> 
 </td>
 <td>
 Eindhoven University of Technology
@@ -361,7 +361,7 @@ Eindhoven University of Technology
 </td></tr>
 
 <tr><td>
-<b>Co-supervising</b> doctoral thesis of <a href="https://www.uhasselt.be/en/who-is-who/ayesha-javed"><i>A. Javed</a> & <a href="https://www.uhasselt.be/nl/wie-is-wie/detail/jesse-aerts">J. Aerts</i></a> 
+<b>Co-supervising</b> doctoral thesis of <a href="https://www.uhasselt.be/en/who-is-who/ayesha-javed"><i>A. Javed</i></a> & <a href="https://www.uhasselt.be/nl/wie-is-wie/detail/jesse-aerts"><i>. Aerts</i></a> 
 </td>
 <td>
 Hasselt University

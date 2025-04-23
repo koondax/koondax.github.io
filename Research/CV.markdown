@@ -534,8 +534,27 @@ IIT Kharagpur
 
 <h2 id="Management"><img src="/icons/responsibility.png" width="50"> Management</h2>
 
+<h4> Departmental work </h4>
+<table>
+<tr><td>
+2025 Jan-
+</td><td>
+Member Calculus redesign committee
+</td></tr>
+<tr><td>
+2024 Jan-
+</td><td>
+Co-organizer <a href="https://casa.win.tue.nl/events/">CASA colloduium</a>
+</td></tr>
+<tr><td> 2023 Dec-
+</td><td>
+Member of the <a href="https://educationguide.tue.nl/practical-info/it-services?l=&cHash=ad1c75a7e7132ce40ecade518ee10a29">ICT</a> Operations committee (M&CS dept)
+</td></tr>
+</table>
+
 
 <h4> Conference/Worshop Organization</h4>
+
 
 <table>
 <tr><td>24-27 June, 2024</td><td>Hasselt, Belgium</td><td>
@@ -564,6 +583,18 @@ Co-organizers: Dr. S. Sonner, V. Hissink Muller
 
 <h4> Minisymposium Organization</h4>
 <table>
+<tr><td>1-5 Sep, 2025</td><td>Hiedelberg, Germany</td><td>
+<a href="https://enumath2025.eu/">ENUMATH</a></td></tr>
+<tr><td colspan="2"> 
+ MS27 - Monge-Ampère Equations </br>
+  MS06 - Mathematical Modelling in Wildfire Spread 
+</td>
+<td>
+2 minisymposium <br>
+3 sessions, 12 speakers
+</td></tr>
+
+
 <tr><td>4-8 Sep, 2023</td><td>Lisbon, Portugal</td><td>
 <a href="https://enumath2023.com/">ENUMATH</a></td></tr>
 <tr><td colspan="2"> Robust numerical methods for nonlinear problems in biology </td>
@@ -584,18 +615,7 @@ Co-organizer: Dr. S.B. Luonwa
 
 
 
-<h4> Departmental work </h4>
-<table>
-<tr><td>
-2024 Jan-
-</td><td>
-Co-organizer <a href="https://casa.win.tue.nl/events/">CASA colloduium</a>
-</td></tr>
-<tr><td> 2023 Dec-
-</td><td>
-Member of the <a href="https://educationguide.tue.nl/practical-info/it-services?l=&cHash=ad1c75a7e7132ce40ecade518ee10a29">ICT</a> Operations committee (M&CS dept)
-</td></tr>
-</table>
+
 
 
 <h4> Entrepreneurship </h4>

@@ -347,7 +347,7 @@ Selected among 30 applicants to receive the travel award for participating in th
 
 
 
-<h2 id="Teaching"><img src="/icons/teaching.png"> Teaching and Supervision</h2>ssss
+<h2 id="Teaching"><img src="/icons/teaching.png"> Teaching and Supervision</h2>
 <table>
 
 <tr><td>

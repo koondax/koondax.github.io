@@ -361,7 +361,7 @@ Eindhoven University of Technology
 </td></tr>
 
 <tr><td>
-<b>Co-supervising</b> doctoral thesis of <a href="https://www.uhasselt.be/en/who-is-who/ayesha-javed"><i>A. Javed</i></a> & <a href="https://www.uhasselt.be/nl/wie-is-wie/detail/jesse-aerts"><i>. Aerts</i></a> 
+<b>Co-supervising</b> doctoral thesis of <a href="https://www.uhasselt.be/en/who-is-who/ayesha-javed"><i>A. Javed</i></a> & <a href="https://www.uhasselt.be/nl/wie-is-wie/detail/jesse-aerts"><i>J. Aerts</i></a> 
 </td>
 <td>
 Hasselt University

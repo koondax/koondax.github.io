@@ -6,7 +6,7 @@ categories: jekyll update
 ---
 
 
-<h4>Our proposal on developing next generation of Freeform Gradient Index (F-GRIN) Optics just got approved by NWO (Dutch Research Council) with a budget of over 2M € 🥳. With consortium partners Delft & Twente, and industrial partners ASML, Signify, Anteryon, Demcon, & JMO, its time to usher in a new era in optical technology. </h4>
+<h4>Our proposal on developing next generation of Freeform Gradient Index (F-GRIN) Optics just got approved by NWO (Dutch Research Council) with a budget of over 2M € 🥳. With consortium partners Delft & Twente, and industrial partners ASML, Signify, Anteryon, Demcon, & JMO, it is time to usher in a new era in optical technology. </h4>
 
 
 <img src="/Pictures/Logo-peregine.jpg" alt="THE PEREGRINE logo!! sure to take the world by storm like its namesake">

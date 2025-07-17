@@ -14,7 +14,6 @@ categories: jekyll update
 <b><u> PEREGRINE: Performance Extremized Freeform Gradient Index Optics </u></b>
 
 {% highlight ruby %}
-
 In the past, our efforts to control light have been shackled by reliance either on optical surfaces, such as reflectors (mirror)
 and refractors (lens), or on materials confined by symmetry (e.g. optical fibers). However, with the advancement of fast
 design algorithms, smart materials, and additive manufacturing techniques, it is now possible to produce operational optical
@@ -31,6 +30,4 @@ make F-GRIN optics viable. The effects are expected to resonate through semicond
 to name a few, and eventually percolate to the broader society.
 {% endhighlight %}
 
-<i>Hirings to start soon!!</i>
-
-For more information, keep an eye on <a href="https://www.win.tue.nl/~martijna/Optics/">Computational Illumination Optics webpage</a></h4>
+<i>Hirings to start soon!!</i> For more information, keep an eye on <a href="https://www.win.tue.nl/~martijna/Optics/">Computational Illumination Optics webpage</a></h4>

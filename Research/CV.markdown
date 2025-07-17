@@ -90,12 +90,12 @@ As a part of the <a href="https://www.win.tue.nl/~martijna/Optics/">Computationa
 
 
 <li> Fundamentally it is an optimal transport problem, but much much harder (as is real life 😉)</li>
+</ul>
 <img src="/Pictures/Optimal_transport.png" alt="The optimal transport problem" width="250">
-<i>Image courtesy</i>: <a href="https://www.researchgate.net/profile/Pieter-Braam">Pieter Braam</a>
-
 <img src="/Pictures/Egg_to_chicken.gif" alt="Turning a egg into a chicken using the power of optics" width="300" style="float: right;">
 
-</ul>
+<i>Image courtesy</i>: <a href="https://www.researchgate.net/profile/Pieter-Braam">Pieter Braam</a>
+
 
 
 

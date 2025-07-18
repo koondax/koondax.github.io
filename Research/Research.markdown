@@ -115,9 +115,23 @@ A. Javed, K. Mitra, & I.S. Pop. <i> Robust and adaptive linearization scheme for
 <ul style="list-style-image: url('/icons/paper.png');">
 
 <li>
-P. Braam, J.H.M ten Thije Boonkkamp, M.J.H. Anthonissen, K. Mitra, R. Beltman, W.L. IJzerman. <a href="
-https://doi.org/10.48550/arXiv.2503.17199"> Inverse freeform design of a parallel-to-two-target reflector system.</a> 	arXiv:2503.17199.
+P. Braam, J.H.M ten Thije Boonkkamp, M.J.H. Anthonissen, K. Mitra, R. Beltman, W.L. IJzerman. <a href="https://doi.org/10.1364/JOSAA.563099"> Inverse freeform design of a parallel-to-two-target reflector system.</a> 	Journal of the Optical Society of America A, Vol. 42 (8), 1133-1143.
 </li>
+
+<li>
+R. Hacking, L. Kusch, K. Mitra, M.J.H. Anthonissen, & W.L. IJzerman (2025). <a href="https://doi.org/10.1016/j.jcmds.2025.100119">A neural network approach for solving the Monge-Ampère equation with transport boundary condition. </a>   Journal of Computational Mathematics and Data Science: 100119.
+</li>
+
+<li>
+R.K.H. Smeets, K. Mitra, S. Sonner, & I.S. Pop (2024). <a href="https://doi.org/10.48550/arXiv.2404.00391"> Robust time-discretisation and linearisation schemes for singular and degenerate evolution systems modelling biofilm growth. </a>  IMA Journal of Numerical Analysis  (to appear).
+</li>
+
+<li>
+S. Verma, L. Kusch, K. Mitra, M.J.H. Anthonissen, J.H.M. ten Thije Boonkkamp, & W.L. IJzerman (2025). <a href="https://arxiv.org/abs/2507.02507">Design of a three-dimensional parallel-to-point imaging system based on inverse methods. </a> arXiv preprint arXiv:2507.02507.
+</li>
+
+<li>
+K. Mitra, & S. Sonner (2025). <a href="https://doi.org/10.48550/arXiv.2304.00175"> Well-posedness and properties of nonlinear coupled evolution problems modelling biofilm growth</a>. Mathematical Methods in the Applied Sciences (to appear)</li>
 </ul>
 <br>
 
@@ -125,16 +139,9 @@ https://doi.org/10.48550/arXiv.2503.17199"> Inverse freeform design of a paralle
 <h4> 2024 </h4>
 
 <li>
-J.H.M. ten Thije Boonkkamp, K. Mitra, M.J.H. Anthonissen, L. Kusch, P. Braam, & W.L. IJzerman (2024). <a href="https://www.frontiersin.org/journals/physics/articles/10.3389/fphy.2025.1518660/abstract">Inverse methods for freeform optical design. </a>   Frontiers: Optics and Photonics, vol. 13, 2025.
+J.H.M. ten Thije Boonkkamp, K. Mitra, M.J.H. Anthonissen, L. Kusch, P. Braam, & W.L. IJzerman (2025). <a href="https://www.frontiersin.org/journals/physics/articles/10.3389/fphy.2025.1518660/abstract">Inverse methods for freeform optical design. </a>   Frontiers: Optics and Photonics, vol. 13.
 </li>
 
-<li>
-R. Hacking, L. Kusch, K. Mitra, M.J.H. Anthonissen, & W.L. IJzerman (2024). <a href="https://arxiv.org/abs/2410.19496">A neural network approach for solving the Monge-Ampère equation with transport boundary condition. </a>   arXiv:2410.19496.
-</li>
-
-<li>
-R.K.H. Smeets, K. Mitra, S. Sonner, & I.S. Pop (2024). <a href="https://doi.org/10.48550/arXiv.2404.00391"> Robust time-discretisation and linearisation schemes for singular and degenerate evolution systems modelling biofilm growth. </a>   arXiv:2404.00391v2.
-</li>
 
 <li> K. Mitra, A. Ratz, & B. Schweizer (2024). <a href="https://doi.org/10.1016/j.jde.2024.02.036"> Travelling wave solutions for gravity fingering in porous media flows.</a> Journal of Differential Equations, 394, 120-151. </li>
 
@@ -152,8 +159,6 @@ K. Mitra, & M. Vohralik (2023). <a href="https://inria.hal.science/hal-04156711"
 An orthogonal decomposition result based on iterative linearization</a>. HAL Preprint, hal-04156711, v.1.
 </li>
 
-<li>
-K. Mitra, & S. Sonner (2023). <a href="https://doi.org/10.48550/arXiv.2304.00175"> Well-posedness and properties of nonlinear coupled evolution problems modelling biofilm growth</a>. arXiv:2304.00175.</li>
 
 <li>
 A. Harnist, K. Mitra, A. Rappaport, & M. Vohralik (2023). <a href="https://hal.science/hal-04033438">Robust a posteriori estimate of energy differences for nonlinear elliptic problems</a>. HAL preprint, hal-04033438.</li>

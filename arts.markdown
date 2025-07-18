@@ -17,7 +17,7 @@ We're the all-singing, all-dancing crap of the world
 {% endhighlight %}
 
 
-<h4>My free time, I fill with Music 🎧, & arts 🎨. I was trained in Indian classical music 🎵, but heavier stuff 🤘 rocks me too. Below I list some things I have been up to.</h4>
+<h4>My free time, I fill with Music 🎧, & Arts 🎨. I was trained in Indian classical music 🎵, but heavier stuff 🤘 rocks me too. Below I list some of the things I have been up to lately.</h4>
 
 
 <br>
@@ -29,7 +29,7 @@ We're the all-singing, all-dancing crap of the world
 
 <table>
 <tr><td>
-<img src="/Pictures/Leftover-logo.jpg" width="250"> 
+<img src="/Pictures/Leftover-logo.jpg" width="300"> 
 </td><td>
 Our band is <i>the Leftovers</i> — the tastiest mix of classic rock, punk, and grunge you’ll hear this side of Eindhoven! What started as the remnants of a former band has cooked up into a full-course feast of legendary tunes
 </td></tr>

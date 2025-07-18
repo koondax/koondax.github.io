@@ -29,9 +29,9 @@ We're the all-singing, all-dancing crap of the world
 
 <table>
 <tr><td>
-<img src="/Pictures/Leftover-logo.jpg" width="175"> 
+<img src="/Pictures/Leftover-logo.jpg" width="250"> 
 </td><td>
-We are the Leftovers — the tastiest mix of classic rock, punk, and grunge you’ll hear this side of Eindhoven! What started as the remnants of a former band has cooked up into a full-course feast of legendary tunes
+Our band is <i>the Leftovers</i> — the tastiest mix of classic rock, punk, and grunge you’ll hear this side of Eindhoven! What started as the remnants of a former band has cooked up into a full-course feast of legendary tunes
 </td></tr>
 </table>
 
@@ -49,6 +49,8 @@ frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media
 
 <div style="text-align: right;">
 <img src="/Pictures/Prachchad_final.png" width="250" >
+
+<br>
 My design of the cover for my father's book
 </div>
 

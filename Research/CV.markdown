@@ -292,10 +292,14 @@ Ranked <b> 2nd </b> in the department
 2025-
 </td></tr>
 <tr><td  colspan="3">
-<img src="/Pictures/Falcon.jpg" width="100"><b><u>PEREGRINE: Performance Extremized Freeform Gradient Index Optics</u></b>
-<br>
+<b><u>PEREGRINE: Performance Extremized Freeform Gradient Index Optics</u></b>
 
+<table><tr><td>
 With academic partners TU Eindhoven (Mech Dept), TU  Delft, University of Twente, and industrial partners Anteryon, ASML, Demcon, JMO, & Signify, was awarded this grant of over 2M € to design and develop <i>Freeform Gradient Index (F-GRIN) </i> optics for next generation of optical devices.
+</td><td>
+<img src="/Pictures/Falcon.jpg" width="100">
+</td></tr>
+</table>
 </td>
 </tr>
 

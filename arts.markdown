@@ -4,8 +4,20 @@ title: Arts & Music
 permalink: /arts/
 ---
 
+<!---center-->
+<!--img src="/DP/cover.jpg"-->
+<!--/center-->
+
+
+<h2><img src="/icons/guitar.png"> The Leftovers </h2>
+
+We are the Leftovers — the tastiest mix of classic rock, punk, and grunge you’ll hear this side of Eindhoven! What started as the remnants of a former band has cooked up into a full-course feast of legendary tunes.
+
+
+
 <center>
-<img src="/DP/cover.jpg">
+<iframe width="450" height="250" src="https://www.youtube.com/watch?v=thdDyPeOG0A" title="YouTube video player" 
+frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>Lithium (Nirvana)</iframe>
 </center>
 
 

@@ -49,7 +49,7 @@ frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media
 
 <table><tr><td>
 My design of the cover for my father's book <br>
-<img src="/Pictures/Prachchad_final.png" width="300" >
+<img src="/Pictures/Cover_final.png" width="300" >
 </td><td>
 <img src="/DP/dp_singing.jpg" width="300" ><br>
 

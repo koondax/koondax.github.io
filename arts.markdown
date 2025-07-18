@@ -48,8 +48,8 @@ frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media
 <!--RABINDRA SANGEET---------------------------------------------------------------------->
 
 <table><tr><td>
+My design of the cover for my father's book <br>
 <img src="/Pictures/Prachchad_final.png" width="300" >
-My design of the cover for my father's book
 </td><td>
 <img src="/DP/dp_singing.jpg" width="300" >
 

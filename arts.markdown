@@ -13,13 +13,44 @@ permalink: /arts/
 
 We are the Leftovers — the tastiest mix of classic rock, punk, and grunge you’ll hear this side of Eindhoven! What started as the remnants of a former band has cooked up into a full-course feast of legendary tunes.
 
-
-
 <center>
 <iframe width="450" height="250" src="https://www.youtube.com/watch?v=thdDyPeOG0A" title="YouTube video player" 
 frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>Lithium (Nirvana)</iframe>
 </center>
 
+
+<img src="/Pictures/singing_together.jpg">
+
+
+<!--RABINDRA SANGEET---------------------------------------------------------------------->
+
+
+<h2><img src="/icons/rabindra.png"> Rabindra Sangeet </h2>
+
+<table><tr><td>
+<audio controls  controlsList="nodownload">
+  <source src="/Sounds/Birasa-Din.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+</td>
+<td>
+<a href="https://www.geetabitan.com/lyrics/B/biraso-din-birolo-lyric.html"><i> Birasa Din</i></a>
+</td>
+</tr>
+
+<tr><td>
+<audio controls  controlsList="nodownload">
+  <source src="/Sounds/Je-Din-Bheshe.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+</td>
+<td>
+<a href="https://www.geetabitan.com/lyrics/A/aamar-je-din-bhese-gechhe-lyric.html"><i> Amar je Din Bhese Geche</i></a>
+</td>
+</tr>
+
+
+</table>
 
 <!--THIS SECTION IS FOR MY MUSIC----------------------------------------------------------------------->
 
@@ -79,38 +110,7 @@ This was a collaboration album made by <a href="https://www.facebook.com/dario.b
 </table>
 
 
-<img src="/Pictures/singing_together.jpg">
 
-
-<!--RABINDRA SANGEET---------------------------------------------------------------------->
-
-
-<h2><img src="/icons/rabindra.png"> Rabindra Sangeet </h2>
-
-<table><tr><td>
-<audio controls  controlsList="nodownload">
-  <source src="/Sounds/Birasa-Din.mp3" type="audio/mpeg">
-Your browser does not support the audio element.
-</audio>
-</td>
-<td>
-<a href="https://www.geetabitan.com/lyrics/B/biraso-din-birolo-lyric.html"><i> Birasa Din</i></a>
-</td>
-</tr>
-
-<tr><td>
-<audio controls  controlsList="nodownload">
-  <source src="/Sounds/Je-Din-Bheshe.mp3" type="audio/mpeg">
-Your browser does not support the audio element.
-</audio>
-</td>
-<td>
-<a href="https://www.geetabitan.com/lyrics/A/aamar-je-din-bhese-gechhe-lyric.html"><i> Amar je Din Bhese Geche</i></a>
-</td>
-</tr>
-
-
-</table>
 
 
 

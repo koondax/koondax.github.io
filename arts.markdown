@@ -48,7 +48,8 @@ frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media
 <!--RABINDRA SANGEET---------------------------------------------------------------------->
 
 <div style="text-align: right;">
-<img src="/Pictures/Prachchad_final.png" width="250" >
+<img src="/Pictures/Prachchad_final.png" width="300" >
+</div>
 
 <br>
 My design of the cover for my father's book

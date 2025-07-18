@@ -115,7 +115,7 @@ A. Javed, K. Mitra, & I.S. Pop. <i> Robust and adaptive linearization scheme for
 <ul style="list-style-image: url('/icons/paper.png');">
 
 <li>
-P. Braam, J.H.M ten Thije Boonkkamp, M.J.H. Anthonissen, K. Mitra, R. Beltman, W.L. IJzerman. <a href="https://doi.org/10.1364/JOSAA.563099"> Inverse freeform design of a parallel-to-two-target reflector system.</a> 	Journal of the Optical Society of America A, Vol. 42 (8), 1133-1143.
+P. Braam, J.H.M ten Thije Boonkkamp, M.J.H. Anthonissen, K. Mitra, R. Beltman, & W.L. IJzerman (2025). <a href="https://doi.org/10.1364/JOSAA.563099"> Inverse freeform design of a parallel-to-two-target reflector system.</a> 	Journal of the Optical Society of America A, Vol. 42 (8), 1133-1143.
 </li>
 
 <li>
@@ -123,7 +123,7 @@ R. Hacking, L. Kusch, K. Mitra, M.J.H. Anthonissen, & W.L. IJzerman (2025). <a h
 </li>
 
 <li>
-R.K.H. Smeets, K. Mitra, S. Sonner, & I.S. Pop (2024). <a href="https://doi.org/10.48550/arXiv.2404.00391"> Robust time-discretisation and linearisation schemes for singular and degenerate evolution systems modelling biofilm growth. </a>  IMA Journal of Numerical Analysis  (to appear).
+R.K.H. Smeets, K. Mitra, S. Sonner, & I.S. Pop (2025). <a href="https://doi.org/10.48550/arXiv.2404.00391"> Robust time-discretisation and linearisation schemes for singular and degenerate evolution systems modelling biofilm growth. </a>  IMA Journal of Numerical Analysis  (to appear).
 </li>
 
 <li>
@@ -284,7 +284,7 @@ invited to give lectures on methods for nonlinear equations
 <h4>Selected Conference Talks</h4>
 <table>
 <tr><td>2025</td><td> 
-<a href="https://jftrabago.github.io/MNANP2025/">MNANP2025</a> (Japan)
+<a href="https://jftrabago.github.io/MNANP2025/">MNANP2025</a> (Japan), <a href="https://enumath2025.eu/">ENUMATH</a> (Germany), <a href="https://intrusion-workshop.cnr.it/">INTRUSION</a> (Italy) 
 </td></tr>
 <tr><td>2024</td><td> 
 <a href="https://ins.uni-bonn.de/group/gedicke/page/cmam-10">CMAM</a> (Germany), <a href="https://www.math.sk/alg2024/">Algoritmy</a> (Slovakia)

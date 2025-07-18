@@ -282,7 +282,19 @@ Ranked <b> 2nd </b> in the department
 
 <h2 id="Awards"><img src="/icons/scholarship.png"> Fellowship, Grants, and Awards </h2>
 <table>
-
+<tr><td>
+<a href="https://www.nwo.nl/en/calls/kic-future-broad-spectrum-optical-systems"><strong>NWO - KIC call: Future Broad Spectrum Optical Systems</strong></a>
+</td>
+<td>
+<a href="https://www.fwo.be/">NWO</a> (Dutch Research Council)
+</td>
+<td>
+2025-
+</td></tr>
+<tr><td  colspan="3">
+Was awarded this prestigious fellowship for a 3 year independent researcher position (~250,000€) in Hasselt University (20% success rate).
+</td>
+</tr>
 
 <tr><td>
 <a href="https://www.fwo.be/en/fellowships-funding/postdoctoral-fellowships/junior-postdoctoral-fellowship/"><strong>Junior Postdoctoral Fellowship</strong></a>

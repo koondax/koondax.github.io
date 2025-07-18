@@ -9,12 +9,19 @@ permalink: /arts/
 <!--/center-->
 
 
-<h2><img src="/icons/guitar.png"> The Leftovers </h2>
+<h2><img src="/icons/band.jpg" width="50"> The Leftovers </h2>
 
-We are the Leftovers — the tastiest mix of classic rock, punk, and grunge you’ll hear this side of Eindhoven! What started as the remnants of a former band has cooked up into a full-course feast of legendary tunes.
+<table>
+<tr><td>
+<img src="/Pictures/Leftover-logo.jpg"> 
+</td></tr>
+<tr><td>
+We are the Leftovers — the tastiest mix of classic rock, punk, and grunge you’ll hear this side of Eindhoven! What started as the remnants of a former band has cooked up into a full-course feast of legendary tunes
+</tr></td>
+</table>
 
 <center>
-<iframe width="450" height="250" src="https://www.youtube.com/watch?v=thdDyPeOG0A" title="YouTube video player" 
+<iframe width="450" height="250" src="https://www.youtube.com/embed/thdDyPeOG0A" title="YouTube video player" 
 frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>Lithium (Nirvana)</iframe>
 </center>
 

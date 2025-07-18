@@ -47,13 +47,18 @@ frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media
 <br>
 <!--RABINDRA SANGEET---------------------------------------------------------------------->
 
-<div style="text-align: right;">
+<table><tr><td>
 <img src="/Pictures/Prachchad_final.png" width="300" >
-</div>
+My design of the cover for my father's book
+</td><td>
+<img src="/DP/dp_singing.jpg" width="300" >
+
+My (bad) attempt at choir 
+</td>
+</table>
 
 <br>
-My design of the cover for my father's book
-</div>
+
 
 <h2><img src="/icons/rabindra.png"> Rabindra Sangeet </h2>
 

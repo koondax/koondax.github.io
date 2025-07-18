@@ -17,10 +17,11 @@ We're the all-singing, all-dancing crap of the world
 {% endhighlight %}
 
 
-<h4>My free time, I fill with Music 🎧, & arts 🎨. I was trained in Indian classical music 🎵, but heavier stuff 🤘 rocks me too.</h4>
+<h4>My free time, I fill with Music 🎧, & arts 🎨. I was trained in Indian classical music 🎵, but heavier stuff 🤘 rocks me too. Below I list some things I have been up to.</h4>
 
 
-
+<br>
+<br>
 
 <!--LEFTOVERS---------------------------------------------------------------------->
 
@@ -42,9 +43,14 @@ frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media
 
 
 
-
+<br>
+<br>
 <!--RABINDRA SANGEET---------------------------------------------------------------------->
 
+<div style="text-align: right;">
+<img src="/Pictures/Prachchad_final.png" width="250" >
+My design of the cover for my father's book
+</div>
 
 <h2><img src="/icons/rabindra.png"> Rabindra Sangeet </h2>
 

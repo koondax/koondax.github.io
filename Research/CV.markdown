@@ -419,13 +419,13 @@ Hasselt University
 </td></tr>
 
 <tr><td>
-<b>Co-supervised</b> masters thesis of <i>J.A. Geurts</i>
+<b>Co-supervised</b> masters thesis of <a href="https://research.tue.nl/en/persons/joie-geurts">J.A. Geurts</a> & <a href="https://scholar.google.com/citations?user=Ta2Yr_oAAAAJ&hl=en">R.K.H. Smeets</a> 
 </td>
 <td>
 Radboud University
 </td>
 <td>
-2024-
+2022-2025
 </td></tr>
 
 <tr><td>
@@ -435,7 +435,7 @@ Radboud University
 TU Eindhoven 
 </td>
 <td>
-2024-25
+2024-
 </td></tr>
 
 <tr><td>
@@ -445,7 +445,7 @@ TU Eindhoven
 TU Eindhoven
 </td>
 <td>
-2024-25
+2024-
 </td></tr>
 
 <tr><td>
@@ -459,23 +459,13 @@ TU Eindhoven
 </td></tr>
 
 <tr><td>
-<b>Instructor</b> for <i>Analysis I</i> course, Mathematics
+<b>Instructor</b> for <i>Analysis I-II</i> courses, Mathematics
 </td>
 <td>
 TU Eindhoven
 </td>
 <td>
-2023-24
-</td></tr>
-
-<tr><td>
-<b>Co-supervised</b> masters thesis of <i>R.K.H. Smeets</i> 
-</td>
-<td>
-Radboud University
-</td>
-<td>
-2022-23
+2023-
 </td></tr>
 
 

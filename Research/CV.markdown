@@ -286,13 +286,13 @@ Ranked <b> 2nd </b> in the department
 <a href="https://www.nwo.nl/en/calls/kic-future-broad-spectrum-optical-systems"><strong>NWO - KIC call: Future Broad Spectrum Optical Systems</strong></a>
 </td>
 <td>
-<a href="https://www.fwo.be/">NWO</a> (Dutch Research Council)
+<a href="https://www.nwo.nl/">NWO</a> (Dutch Research Council)
 </td>
 <td>
 2025-
 </td></tr>
 <tr><td  colspan="3">
-<b><u>PEREGRINE: Performance Extremized Freeform Gradient Index Optics</u></b>
+<b><u>PEREGRINE: Performance Extremized Freeform Gradient Index Optics</u></b> (Ranked 1)
 
 <table><tr><td>
 <img src="/Pictures/Falcon.jpg" width="250">
@@ -317,6 +317,19 @@ Was awarded this prestigious fellowship for a 3 year independent researcher posi
 </td>
 </tr>
 
+<tr><td>
+<i>Special Activity Group on PDEs</i>
+</td>
+<td>
+<a href="https://www.ndns.nl/courses.html">NDNS+</a> 
+</td>
+<td>
+2025-
+</td></tr>
+<tr><td  colspan="3">
+As co-applicant of the Dutch <i>Special activity group on PDEs </i> we will receive 4500 € yearly funding to organize events, seminars, courses to bring the PDE community of Netherlands together.
+</td>
+</tr>
 
 <tr><td>
 <a href="https://www.oracle.com/be/research/project-awards/"><i>Oracle for Research Grant</i></a>
@@ -389,7 +402,7 @@ Selected among 30 applicants to receive the travel award for participating in th
 <b>Supervising</b> doctoral thesis of <a href="https://research.tue.nl/nl/persons/ren%C3%A9-k%C3%B6hle"><i>R. Köhle</i></a> 
 </td>
 <td>
-Eindhoven University of Technology
+TU Eindhoven
 </td>
 <td>
 2024-
@@ -406,7 +419,7 @@ Hasselt University
 </td></tr>
 
 <tr><td>
-<b>Co-supervising</b> masters thesis of <i>J.A. Geurts</i>
+<b>Co-supervised</b> masters thesis of <i>J.A. Geurts</i>
 </td>
 <td>
 Radboud University
@@ -504,7 +517,7 @@ Radboud University
 
 
 <tr><td>
-<b>Co-supervised</b> bachelor thesis of <i>I.C. Bloo</i> & <i>M.E. Rinner </i>
+<b>Co-supervised</b> bachelor thesis of <i>I.C. Bloo</i>
 </td>
 <td>
 Radboud University
@@ -609,6 +622,19 @@ Member of the <a href="https://educationguide.tue.nl/practical-info/it-services?
 
 
 <h4> Conference/Worshop Organization</h4>
+
+
+<table>
+<tr><td>19-23 Jan, 2025</td><td>Leiden, Netherlands</td><td>
+<a href="https://www.lorentzcenter.nl/nonlinear-diffusion-models-analytical-en-numerical-challenges.html">
+Lorentz center workshop: <i>Nonlinear diffusion models: analytical & numerical challenges</i></a></td></tr>
+<tr><td colspan="2"> Co-organizers: M.V. Gnann, C. Cancès, C. Lienstromberg, S. Sonner</td>
+<td>
+A week of scientific presentation & discussions in the prestigious <a href="https://www.lorentzcenter.nl/">Lorentz center</a>. 
+<br>
+Number of participants ~ 40
+</td></tr>
+</table>
 
 
 <table>

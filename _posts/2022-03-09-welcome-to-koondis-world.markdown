@@ -35,7 +35,7 @@ I completed Bachelor/Masters from IIT Kharagpur (India) in 2015
 majoring in Mechanical Engineering, and minoring in Physics. 
 I finished my PhD jointly from TU Eindhoven (The Netherlands), 
 and Hasselt University (Belgium) in 2019.
-Then I did successive post-docs in TU Dortmund (Germany), INRIA Paris (France), Radboud University (Netherlands), & Hasselt University (Belgium). 
-Currently, I am a tenured assistant professor in TU Eindhoven.
+Then I did successive post-docs at TU Dortmund (Germany), INRIA Paris (France), Radboud University (Netherlands), & Hasselt University (Belgium). 
+Currently, I am a tenured assistant professor at TU Eindhoven.
 {% endhighlight %}
 

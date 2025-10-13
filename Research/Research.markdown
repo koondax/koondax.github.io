@@ -100,7 +100,7 @@ My Publications <a href="https://scholar.google.com/citations?user=q3wIdrIAAAAJ&
 </h2>
 
 
-
+<!-------
 <h4> In preparation </h4>
 <ul style="list-style-image: url('/icons/prepare.png');">
 
@@ -109,10 +109,18 @@ A. Javed, K. Mitra, & I.S. Pop. <i> Robust and adaptive linearization scheme for
 </li>
 </ul>
 <br>
-
+---->
 
 <h4> 2025 </h4>
 <ul style="list-style-image: url('/icons/paper.png');">
+
+<li>
+A. Javed, K. Mitra, & I.S. Pop (2025). <a href="https://doi.org/10.48550/arXiv.2509.00794"> Robust, fast, and adaptive splitting schemes for nonlinear doubly-degenerate diffusion equations. </a> arXiv preprint arXiv.2508.07420.
+</li>
+
+<li>
+R.N. Köhle, K.T.W. Menting, K. Mitra, & J.H.M. ten Thije Boonkkamp (2025). <a href="https://doi.org/10.48550/arXiv.2508.07420"> Robust and fast iterative method for the elliptic Monge-Ampère equation. </a> arXiv preprint arXiv.2508.07420.
+</li>
 
 <li>
 P. Braam, J.H.M ten Thije Boonkkamp, M.J.H. Anthonissen, K. Mitra, R. Beltman, & W.L. IJzerman (2025). <a href="https://doi.org/10.1364/JOSAA.563099"> Inverse freeform design of a parallel-to-two-target reflector system.</a> 	Journal of the Optical Society of America A, Vol. 42 (8), 1133-1143.
@@ -131,7 +139,7 @@ S. Verma, L. Kusch, K. Mitra, M.J.H. Anthonissen, J.H.M. ten Thije Boonkkamp, & 
 </li>
 
 <li>
-K. Mitra, & S. Sonner (2025). <a href="https://doi.org/10.48550/arXiv.2304.00175"> Well-posedness and properties of nonlinear coupled evolution problems modelling biofilm growth</a>. Mathematical Methods in the Applied Sciences (to appear)</li>
+K. Mitra, & S. Sonner (2025). <a href="https://doi.org/10.1002/mma.11221"> Well-posedness and properties of nonlinear coupled evolution problems modelling biofilm growth</a>. Mathematical Methods in the Applied Sciences, 48:14890–14908.</li>
 </ul>
 <br>
 

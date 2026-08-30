@@ -317,7 +317,7 @@ With academic partners TU Eindhoven (Mech Dept), TU  Delft, University of Twente
 <b><u>FOCUS: Future Optical Components for Ultimate dispersion control Strategies</u></b> (Ranked 2)
 
 <table><tr><td>
-<img src="/Pictures/FOCUS.jpeg" width="500">
+<img src="/Pictures/FOCUS.jpeg" width="600">
 </td><td>
  FOCUS focuses on the development of new, small, and accurate optical components by improving design, materials, manufacturing, and metrology processes. Academic partners: TU Delft (Lead), TU Eindhoven, and University of Twente. Industrial Partners: Anteryon, ASML, JMO, Luximprint, Nanoscribe, Schott, Signify.
 </td></tr>
@@ -424,18 +424,7 @@ Selected among 30 applicants to receive the travel award for participating in th
 <table>
 
 <tr><td>
-<b>Supervising</b> doctoral theses of <a href="https://research.tue.nl/nl/persons/ren%C3%A9-k%C3%B6hle"><i>R. Köhle</i></a> & <a href="https://research.tue.nl/en/persons/fatema-goulamaly/"><i>F. Goulamaly</i></a>
-</td>/i
-<td>
-TU Eindhoven
-</td>
-<td>
-2024-
-</td></tr>
-
-
-<tr><td>
-<b>Co-supervising</b> doctoral theses of <a href="https://research.tue.nl/nl/persons/joie-geurts/"><i>J.A. Geurts</i></a> () & <a href="https://research.tue.nl/en/persons/gabriel-vidal-de-carvalho/"><i>G. Vidal De Carvalho</i></a>
+<b>Co-supervising</b> doctoral theses of <a href="https://research.tue.nl/nl/persons/joie-geurts/"><i>J.A. Geurts</i></a> & <a href="https://research.tue.nl/en/persons/gabriel-vidal-de-carvalho/"><i>G. Vidal De Carvalho</i></a>
 </td>/i
 <td>
 TU Eindhoven
@@ -445,17 +434,28 @@ TU Eindhoven
 </td></tr>
 
 <tr><td>
-<b>Co-supervising</b> doctoral theses of <a href="https://www.uhasselt.be/en/who-is-who/ayesha-javed"><i>A. Javed</i></a> & <a href="https://www.uhasselt.be/nl/wie-is-wie/detail/jesse-aerts"><i>J. Aerts</i></a> 
+<b>Supervising</b> doctoral theses of <a href="https://research.tue.nl/nl/persons/ren%C3%A9-k%C3%B6hle"><i>R. Köhle</i></a> & <a href="https://research.tue.nl/en/persons/fatema-goulamaly/"><i>F. Goulamaly</i></a>
+</td>/i
+<td>
+TU Eindhoven
+</td>
+<td>
+2024-
+</td></tr>
+
+<tr><td>
+<b>Co-supervising</b> doctoral theses of <a href="https://www.uhasselt.be/en/who-is-who/detail/filipe-gomes"><i>F. Oliveira Gomes</i></a> & <a href="https://www.uhasselt.be/nl/wie-is-wie/astrid-maes"><i>A. Maes</i></a> (FWO-AdaptPM grant)
 </td>
 <td>
 Hasselt University
 </td>
 <td>
-2022-
+2025-
 </td></tr>
 
+
 <tr><td>
-<b>Co-supervising</b> doctoral theses of <a href="https://www.uhasselt.be/en/who-is-who/detail/filipe-gomes"><i>F. Oliveira Gomes</i></a> & <a href="https://www.uhasselt.be/nl/wie-is-wie/astrid-maes"><i>A. Maes</i></a> (FWO-AdaptPM grant)
+<b>Co-supervising</b> doctoral theses of <a href="https://www.uhasselt.be/en/who-is-who/ayesha-javed"><i>A. Javed</i></a> & <a href="https://www.uhasselt.be/nl/wie-is-wie/detail/jesse-aerts"><i>J. Aerts</i></a> 
 </td>
 <td>
 Hasselt University
@@ -469,21 +469,43 @@ Hasselt University
 <b>supervised</b> masters theses of <a href="https://www.linkedin.com/in/maksim-kolk-b3b6382a0/">M. Kolk</a>, <a href="https://research.tue.nl/en/persons/joie-geurts">J.A. Geurts</a>, <a href="https://www.linkedin.com/in/kevin-menting-aa481a1a5/">K.T.W. Menting</a>, & <a href="https://scholar.google.com/citations?user=Ta2Yr_oAAAAJ&hl=en">R.K.H. Smeets</a>, 
 </td>
 <td>
-Radboud University
+TU Eindhoven & Radboud
 </td>
 <td>
 2022-2026
 </td></tr>
 
 <tr><td>
-<b>Responsible lecturer</b> for <i>Math 2</i>, Electrical and Automative Engineering (>400 students)
+<b>Responsible lecturer</b> for <i>Math 2</i> course of Electrical and Automative Engineering (>400 students) 
 </td>
 <td>
 TU Eindhoven 
 </td>
 <td>
-2024-
+2024-25
 </td></tr>
+
+<tr><td>
+<b>Lecturer</b> for <i>Transport Phenomena</i> course of Mechanical Engineering (>500 students)
+</td>
+<td>
+TU Eindhoven 
+</td>
+<td>
+2026-
+</td></tr>
+
+
+<tr><td>
+<b>Responsible lecturer</b> of masters course <i>Numerical Analysis for Variational PDEs</i>, Mathematics
+</td>
+<td>
+TU Eindhoven
+</td>
+<td>
+2026-
+</td></tr>
+
 
 <tr><td>
 <b>Responsible lecturer</b> of bachelors course <i>Partial differential equations</i>, Mathematics
@@ -507,7 +529,7 @@ TU Eindhoven
 
 
 <tr><td>
-<b>Lecturer</b> of bachelors course <i>Discrete & continuous dynamical systems</i>, Physics
+<b>Lecturer</b> of bachelors course <i>Discrete & continuous dynamical systems</i> and <i>Partial differential equations</i>
 </td>
 <td>
 Hasselt University
@@ -515,19 +537,6 @@ Hasselt University
 <td>
 2023
 </td></tr>
-
-
-
-<tr><td>
-<b>Co-lecturer</b> of bachelors course <i>Partial differential equations</i>, Mathematics
-</td>
-<td>
-Hasselt University
-</td>
-<td>
-2023
-</td></tr>
-
 
 
 <tr><td>
@@ -542,7 +551,7 @@ Radboud University
 2022
 </td></tr>
 
-
+<!----------------------------------------
 <tr><td>
 <b>Co-supervised</b> bachelor thesis of <i>I.C. Bloo</i>
 </td>
@@ -553,7 +562,6 @@ Radboud University
 2021-22
 </td></tr>
 
-<!----------------------------------------
 <tr><td>
 <b>Co-supervised</b> masters thesis of <a href="https://scholar.google.com/citations?user=q211zTUAAAAJ&hl=en"><i>S.B. Lunowa</i></a> & <i>F. List</i>
 </td>
@@ -639,7 +647,7 @@ Member <i>Calculus redesign committee</i>
 <tr><td>
 2024 Jan-
 </td><td>
-Co-organizer <a href="https://casa.win.tue.nl/events/">CASA colloduium</a>
+Co-organizer <a href="https://casa.win.tue.nl/events/">CASA colloquium</a>
 </td></tr>
 <tr><td> 2023 Dec-
 </td><td>

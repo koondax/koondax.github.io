@@ -317,7 +317,7 @@ With academic partners TU Eindhoven (Mech Dept), TU  Delft, University of Twente
 <b><u>FOCUS: Future Optical Components for Ultimate dispersion control Strategies</u></b> (Ranked 2)
 
 <table><tr><td>
-<img src="/Pictures/FOCUS.jpeg" width="600">
+<img src="/Pictures/FOCUS.jpeg" width="700">
 </td><td>
  FOCUS focuses on the development of new, small, and accurate optical components by improving design, materials, manufacturing, and metrology processes. Academic partners: TU Delft (Lead), TU Eindhoven, and University of Twente. Industrial Partners: Anteryon, ASML, JMO, Luximprint, Nanoscribe, Schott, Signify.
 </td></tr>
@@ -425,7 +425,7 @@ Selected among 30 applicants to receive the travel award for participating in th
 
 <tr><td>
 <b>Co-supervising</b> doctoral theses of <a href="https://research.tue.nl/nl/persons/joie-geurts/"><i>J.A. Geurts</i></a> & <a href="https://research.tue.nl/en/persons/gabriel-vidal-de-carvalho/"><i>G. Vidal De Carvalho</i></a>
-</td>/i
+</td>
 <td>
 TU Eindhoven
 </td>
@@ -435,7 +435,7 @@ TU Eindhoven
 
 <tr><td>
 <b>Supervising</b> doctoral theses of <a href="https://research.tue.nl/nl/persons/ren%C3%A9-k%C3%B6hle"><i>R. Köhle</i></a> & <a href="https://research.tue.nl/en/persons/fatema-goulamaly/"><i>F. Goulamaly</i></a>
-</td>/i
+</td>
 <td>
 TU Eindhoven
 </td>
@@ -497,6 +497,17 @@ TU Eindhoven
 
 
 <tr><td>
+<b>Mentor & Responsible Lecturer</b> of the <a href="https://www.imc-math.org.uk/"><i>International Mathematics Competition
+for University Students</i></a> Team
+</td>
+<td>
+TU Eindhoven
+</td>
+<td>
+2026-
+</td></tr>
+
+<tr><td>
 <b>Responsible lecturer</b> of masters course <i>Numerical Analysis for Variational PDEs</i>, Mathematics
 </td>
 <td>
@@ -541,8 +552,7 @@ Hasselt University
 
 <tr><td>
 <b>Lecturer</b> of masters course <i>Sobolev spaces & PDEs</i>, Mathematics<br>
-<ul><li> Course rated <i>8.7/10</i></li>
-<li>Awarded <i>Pluim</i> prize by the Programme Committee of Mathematics.</li></ul>
+<ul><li>Awarded <i>Pluim</i> prize by the Programme Committee of Mathematics.</li></ul>
 </td>
 <td>
 Radboud University

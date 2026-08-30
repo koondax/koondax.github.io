@@ -688,7 +688,7 @@ Member of the <a href="https://educationguide.tue.nl/practical-info/it-services?
 <tr><td>19-23 Jan, 2026</td><td>Leiden, Netherlands</td><td>
 <a href="https://www.lorentzcenter.nl/nonlinear-diffusion-models-analytical-en-numerical-challenges.html">
 Lorentz center workshop: <i>Nonlinear diffusion models: analytical & numerical challenges</i></a></td></tr>
-<tr><td colspan="2"> <iframe src="/docs/Lorentz2026-poster.jpg"></td>
+<tr><td colspan="2"> <iframe src="/docs/Lorentz2026-poster.jpg"></iframe></td>
 <td>
 A week of scientific presentation & discussions in the prestigious <a href="https://www.lorentzcenter.nl/">Lorentz center</a>. 
 <br>

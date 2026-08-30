@@ -319,7 +319,7 @@ With academic partners TU Eindhoven (Mech Dept), TU  Delft, University of Twente
 <table><tr><td>
 <img src="/Pictures/FOCUS.jpeg" width="400">
 </td><td>
- FOCUS focuses on the development of new, small, and accurate optical components in terms of design, materials, manufacturing, and metrology. Academic partners: TU Delft (Lead), TU Eindhoven, and University of Twente. Industrial Partners: Anteryon, ASML, JMO, Luximprint, Nanoscribe, Schott, Signify.
+ FOCUS focuses on the development of new, small, and accurate optical components by improving design, materials, manufacturing, and metrology processes. Academic partners: TU Delft (Lead), TU Eindhoven, and University of Twente. Industrial Partners: Anteryon, ASML, JMO, Luximprint, Nanoscribe, Schott, Signify.
 </td></tr>
 </table>
 </td>
@@ -424,13 +424,24 @@ Selected among 30 applicants to receive the travel award for participating in th
 <table>
 
 <tr><td>
-<b>Supervising</b> doctoral thesis of <a href="https://research.tue.nl/nl/persons/ren%C3%A9-k%C3%B6hle"><i>R. Köhle</i></a> 
-</td>
+<b>Supervising</b> doctoral thesis of <a href="https://research.tue.nl/nl/persons/ren%C3%A9-k%C3%B6hle"><i>R. Köhle</i></a> , & <a href="https://research.tue.nl/en/persons/fatema-goulamaly/"><i>F. Goulamaly</i></a>
+</td>/i
 <td>
 TU Eindhoven
 </td>
 <td>
 2024-
+</td></tr>
+
+
+<tr><td>
+<b>Co-supervising</b> doctoral thesis of <a href="https://research.tue.nl/nl/persons/joie-geurts/"><i>J.A. Geurts</i></a> , & <a href="https://research.tue.nl/en/persons/gabriel-vidal-de-carvalho/"><i>G. Vidal De Carvalho</i></a>
+</td>/i
+<td>
+TU Eindhoven
+</td>
+<td>
+2025-
 </td></tr>
 
 <tr><td>
@@ -442,6 +453,17 @@ Hasselt University
 <td>
 2022-
 </td></tr>
+
+<tr><td>
+<b>Co-supervising</b> doctoral thesis of <a href="https://www.uhasselt.be/en/who-is-who/detail/filipe-gomes"><i>F. OLIVEIRA GOMES</i></a> & <a href="https://www.uhasselt.be/nl/wie-is-wie/astrid-maes"><i>A. Maes</i></a> 
+</td>
+<td>
+Hasselt University
+</td>
+<td>
+2022-
+</td></tr>
+
 
 <tr><td>
 <b>Co-supervised</b> masters thesis of <a href="https://research.tue.nl/en/persons/joie-geurts">J.A. Geurts</a> & <a href="https://scholar.google.com/citations?user=Ta2Yr_oAAAAJ&hl=en">R.K.H. Smeets</a> 

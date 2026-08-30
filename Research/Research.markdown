@@ -353,7 +353,7 @@ European Finite Element Fair</a> (France), <a href="https://events.interpore.org
 
 <h4 >PhD Defense Committees</h4>
 <table>
-<tr><td> 2026</td><td> <a href="https://www.linkedin.com/in/ayesha-javed-0ab827249/">Ayesha Javed/a></td><td>Hasselt University</td></tr>
+<tr><td> 2026</td><td> <a href="https://www.linkedin.com/in/ayesha-javed-0ab827249/">Ayesha Javed</a></td><td>Hasselt University</td></tr>
 <tr><td> 2024</td><td> <a href="https://m-meliani.github.io/">Mostafa Meliani</a></td><td>Radboud University</td></tr>
 </table>
 

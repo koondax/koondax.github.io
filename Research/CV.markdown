@@ -342,19 +342,7 @@ Was awarded this prestigious fellowship for a 3 year independent researcher posi
 </td>
 </tr>
 
-<tr><td>
-<i>Special Activity Group on PDEs</i>
-</td>
-<td>
-<a href="https://www.ndns.nl/courses.html">NDNS+</a> 
-</td>
-<td>
-2025-
-</td></tr>
-<tr><td  colspan="3">
-As co-applicant of the Dutch <i>Special activity group on PDEs </i> we will receive 4500 € yearly funding to organize events, seminars, courses to bring the PDE community of Netherlands together.
-</td>
-</tr>
+
 
 <tr><td>
 <a href="https://www.oracle.com/be/research/project-awards/"><i>Oracle for Research Grant</i></a>
@@ -424,16 +412,6 @@ Selected among 30 applicants to receive the travel award for participating in th
 <table>
 
 <tr><td>
-<b>Co-supervising</b> doctoral theses of <a href="https://research.tue.nl/nl/persons/joie-geurts/"><i>J.A. Geurts</i></a> & <a href="https://research.tue.nl/en/persons/gabriel-vidal-de-carvalho/"><i>G. Vidal De Carvalho</i></a>
-</td>
-<td>
-TU Eindhoven
-</td>
-<td>
-2025-
-</td></tr>
-
-<tr><td>
 <b>Supervising</b> doctoral theses of <a href="https://research.tue.nl/nl/persons/ren%C3%A9-k%C3%B6hle"><i>R. Köhle</i></a> & <a href="https://research.tue.nl/en/persons/fatema-goulamaly/"><i>F. Goulamaly</i></a>
 </td>
 <td>
@@ -441,6 +419,16 @@ TU Eindhoven
 </td>
 <td>
 2024-
+</td></tr>
+
+<tr><td>
+<b>Co-supervising</b> doctoral theses of <a href="https://research.tue.nl/nl/persons/joie-geurts/"><i>J.A. Geurts</i></a> & <a href="https://research.tue.nl/en/persons/gabriel-vidal-de-carvalho/"><i>G. Vidal De Carvalho</i></a>
+</td>
+<td>
+TU Eindhoven
+</td>
+<td>
+2025-
 </td></tr>
 
 <tr><td>
@@ -466,7 +454,7 @@ Hasselt University
 
 
 <tr><td>
-<b>supervised</b> masters theses of <a href="https://www.linkedin.com/in/maksim-kolk-b3b6382a0/">M. Kolk</a>, <a href="https://research.tue.nl/en/persons/joie-geurts">J.A. Geurts</a>, <a href="https://www.linkedin.com/in/kevin-menting-aa481a1a5/">K.T.W. Menting</a>, & <a href="https://scholar.google.com/citations?user=Ta2Yr_oAAAAJ&hl=en">R.K.H. Smeets</a>, 
+<b>Supervised</b> masters theses of <a href="https://www.linkedin.com/in/maksim-kolk-b3b6382a0/">M. Kolk</a>, <a href="https://research.tue.nl/en/persons/joie-geurts">J.A. Geurts</a>, <a href="https://www.linkedin.com/in/kevin-menting-aa481a1a5/">K.T.W. Menting</a>, & <a href="https://scholar.google.com/citations?user=Ta2Yr_oAAAAJ&hl=en">R.K.H. Smeets</a>, 
 </td>
 <td>
 TU Eindhoven & Radboud
@@ -646,6 +634,28 @@ IIT Kharagpur
 <!--SECTION: MANAGEMENT----------------------------------------------------------------------------------------------->
 
 <h2 id="Management"><img src="/icons/responsibility.png" width="50"> Management</h2>
+
+
+<h4> <a href="https://sites.google.com/view/activity-group-pde-nl/home">Special Activity Group on PDEs </a></h4>
+<table>
+<tr><td>
+2026 Feb-
+</td>
+<td>
+An <a href="https://www.ndns.nl/courses.html">NDNS+</a> initiative
+</td>
+<td>
+Founding member
+</td></tr>
+<tr>
+<td>
+<iframe src="/docs/poster_SAG.pdf"></iframe>
+</td>
+<td  colspan="2">
+To promote and connect the PDE community in Netherlands, we organize events, workshops, study-groups, and connect researchers. Our kick-off event was in Feb 2026 (Leiden). We are extending it to BeNeLux level with a launch event on 11th Sep 2026.
+</td>
+</tr>
+</table>
 
 <h4> Departmental work </h4>
 <table>

@@ -182,7 +182,7 @@ J.H.M. ten Thije Boonkkamp, K. Mitra, M.J.H. Anthonissen, L. Kusch, P. Braam, & 
 
 <li> K. Mitra, &  M. Vohralik (2024). <a href="https://doi.org/10.1090/mcom/3932">A posteriori error estimates for the Richards equation.</a> Mathematics of Computation,  93, 1053-1096. </li>
 
-<li> K. Mitra, Q. Peng, & C. Reisch (2024). <a href="https://doi.org/10.48550/arXiv.2401.17468"> Studying wildfire fronts using advection-diffusion-reaction models</a>. ENUMATH Proceedings (accepted), arXiv:2401.17468v1.</li>
+<li> K. Mitra, Q. Peng, & C. Reisch (2024). <a href="https://doi.org/10.48550/arXiv.2401.17468"> Studying wildfire fronts using advection-diffusion-reaction models</a>. ENUMATH Proceedings, 182-192.</li>
 
 
 <br>
@@ -260,6 +260,12 @@ C.J. van Duijn, K. Mitra, & I.S. Pop (2018). <a href="https://doi.org/10.1016/j.
  
 <ul style="list-style-image: url('/icons/network.png');">
 <li>
+[2026 Aug] Research visit at <a href="https://research.lancaster-university.uk/en/organisations/school-of-mathematical-sciences/">Lancaster University,</a> UK. 
+</li>
+<li>
+[2026 Jul] Invited talk at <a href="https://icms.ac.uk/">ICMS</a> Workshop <a href="https://icms.ac.uk/activities/workshop/collective-movement-and-pattern-formation/">Collective movement and pattern formation: Biology, modelling and analysis.</a> Edinburgh, UK. 
+</li>
+<li>
 [2025 Apr] Invited talk at <a href="https://mathematischcongres.nl/nmc-2025/ndns-2025/">Netherlands Mathematical Congress.</a> 
 </li>
 <li>
@@ -315,6 +321,9 @@ invited to give lectures on methods for nonlinear equations
 
 <h4>Selected Conference Talks</h4>
 <table>
+<tr><td>2026</td><td> 
+<a href="https://www.tuwien.at/en/mg/asc/event/cmam2026">CMAM</a> (Austria)
+</td></tr>
 <tr><td>2025</td><td> 
 <a href="https://jftrabago.github.io/MNANP2025/">MNANP2025</a> (Japan), <a href="https://enumath2025.eu/">ENUMATH</a> (Germany), <a href="https://intrusion-workshop.cnr.it/">INTRUSION</a> (Italy) 
 </td></tr>

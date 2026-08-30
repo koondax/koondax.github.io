@@ -303,6 +303,31 @@ With academic partners TU Eindhoven (Mech Dept), TU  Delft, University of Twente
 </td>
 </tr>
 
+
+<tr><td>
+<a href="https://www.nwo.nl/nieuws/twaalf-perspectief-projecten-van-start-door-miljoeneninvestering-in-technologische-innovatie"><strong>NWO - Perspectief</strong></a>
+</td>
+<td>
+<a href="https://www.nwo.nl/">NWO</a> (Dutch Research Council)
+</td>
+<td>
+2026-
+</td></tr>
+<tr><td  colspan="3">
+<b><u>FOCUS: Future Optical Components for Ultimate dispersion control Strategies</u></b> (Ranked 2)
+
+<table><tr><td>
+<img src="/Pictures/FOCUS.jpeg" width="300">
+</td><td>
+ FOCUS focuses on the development of new, small, and accurate optical components, leading to more precise and faster design methods, improved manufacturing processes, new lens materials, and new measurement techniques. Academic partners: TU DElft (Lead), TU Eindhoven, and University of Twente. Industrial Partners: Anteryon, ASML, JMO, Luximprint, Nanoscribe, Schott, Signify.
+</td></tr>
+</table>
+</td>
+</tr>
+
+
+
+
 <tr><td>
 <a href="https://www.fwo.be/en/fellowships-funding/postdoctoral-fellowships/junior-postdoctoral-fellowship/"><strong>Junior Postdoctoral Fellowship</strong></a>
 </td>

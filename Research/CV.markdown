@@ -317,9 +317,9 @@ With academic partners TU Eindhoven (Mech Dept), TU  Delft, University of Twente
 <b><u>FOCUS: Future Optical Components for Ultimate dispersion control Strategies</u></b> (Ranked 2)
 
 <table><tr><td>
-<img src="/Pictures/FOCUS.jpeg" width="300">
+<img src="/Pictures/FOCUS.jpeg" width="400">
 </td><td>
- FOCUS focuses on the development of new, small, and accurate optical components, leading to more precise and faster design methods, improved manufacturing processes, new lens materials, and new measurement techniques. Academic partners: TU DElft (Lead), TU Eindhoven, and University of Twente. Industrial Partners: Anteryon, ASML, JMO, Luximprint, Nanoscribe, Schott, Signify.
+ FOCUS focuses on the development of new, small, and accurate optical components in terms of design, materials, manufacturing, and metrology. Academic partners: TU Delft (Lead), TU Eindhoven, and University of Twente. Industrial Partners: Anteryon, ASML, JMO, Luximprint, Nanoscribe, Schott, Signify.
 </td></tr>
 </table>
 </td>

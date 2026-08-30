@@ -62,7 +62,7 @@ I am fascinated by how partial differential equations can explain the world arou
 <h2 id="Expertise"><img src="\icons\expertise.png" width="50"> Expertise</h2>
 <ul style="list-style-image: url('/icons/integral.png');">
 <li> <strong>Applied analysis</strong>: Nonlinear degenerate PDEs, well-posedness, Optimal transport, Rothe's method, free boundaries.</li>
-<li> <strong>Numerical analysis</strong>: Iterative methods, a-posteriori error estimates, inverse methods & least squares, domain decomposition schemes, spatial discretizations including finite differences, elements, volumes.</li>
+<li> <strong>Numerical analysis</strong>: Iterative methods, a-posteriori error estimates, inverse problems & least squares, domain decomposition schemes, spatial discretizations including finite differences, elements, volumes.</li>
 <li>
 <strong> Scientific computing</strong>: Adaptivity, data-driven simulations, post-processing and visualization,  parallelization, ODE solvers, meshing, linear solvers.
 </li>
@@ -174,7 +174,7 @@ K. Mitra, & S. Sonner (2025). <a href="https://doi.org/10.1002/mma.11221"> Well-
 <h4> 2024 </h4>
 
 <li>
-J.H.M. ten Thije Boonkkamp, K. Mitra, M.J.H. Anthonissen, L. Kusch, P. Braam, & W.L. IJzerman (2025). <a href="https://www.frontiersin.org/journals/physics/articles/10.3389/fphy.2025.1518660/abstract">Inverse methods for freeform optical design. </a>   Frontiers: Optics and Photonics, vol. 13.
+J.H.M. ten Thije Boonkkamp, K. Mitra, M.J.H. Anthonissen, L. Kusch, P. Braam, & W.L. IJzerman (2025). <a href="https://www.frontiersin.org/journals/physics/articles/10.3389/fphy.2025.1518660/abstract">Inverse methods for freeform optical design. </a>   Frontiers: Optics and Photonics, 13:1518660.
 </li>
 
 
@@ -205,7 +205,7 @@ An orthogonal decomposition result based on iterative linearization</a>. HAL Pre
 
 <h4> 2022 </h4>
 <li> K. Mitra, J.M. Hughes, S. Sonner, H.J. Eberl, & J.D. Dockery (2022). <a href="https://doi.org/10.1007/s10884-022-10240-4">Travelling Waves in a PDE–ODE Coupled Model of Cellulolytic Biofilms with Nonlinear Diffusion. 
-</a> Journal of Dynamics and Differential Equations, 1-35.</li>
+</a> Journal of Dynamics and Differential Equations, 3037–3071.</li>
 
 <br>
 
@@ -260,7 +260,7 @@ C.J. van Duijn, K. Mitra, & I.S. Pop (2018). <a href="https://doi.org/10.1016/j.
  
 <ul style="list-style-image: url('/icons/network.png');">
 <li>
-[2026 Aug] Research visit at <a href="https://research.lancaster-university.uk/en/organisations/school-of-mathematical-sciences/">Lancaster University,</a> UK. 
+[2026 Aug] <a href="https://research.lancaster-university.uk/en/organisations/school-of-mathematical-sciences/">Lancaster University,</a> UK: invited research visit.
 </li>
 <li>
 [2026 Jul] Invited talk at <a href="https://icms.ac.uk/">ICMS</a> Workshop <a href="https://icms.ac.uk/activities/workshop/collective-movement-and-pattern-formation/">Collective movement and pattern formation: Biology, modelling and analysis.</a> Edinburgh, UK. 

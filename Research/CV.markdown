@@ -454,7 +454,7 @@ Hasselt University
 
 
 <tr><td>
-<b>Supervised</b> masters theses of <a href="https://www.linkedin.com/in/maksim-kolk-b3b6382a0/">M. Kolk</a>, <a href="https://research.tue.nl/en/persons/joie-geurts">J.A. Geurts</a>, <a href="https://www.linkedin.com/in/kevin-menting-aa481a1a5/">K.T.W. Menting</a>, & <a href="https://scholar.google.com/citations?user=Ta2Yr_oAAAAJ&hl=en">R.K.H. Smeets</a>, 
+<b>Supervised</b> masters theses of <a href="https://www.linkedin.com/in/maksim-kolk-b3b6382a0/">M. Kolk</a>, <a href="https://research.tue.nl/en/persons/joie-geurts">J.A. Geurts</a>, <a href="https://www.linkedin.com/in/kevin-menting-aa481a1a5/">K.T.W. Menting</a>, & <a href="https://scholar.google.com/citations?user=Ta2Yr_oAAAAJ&hl=en">R.K.H. Smeets</a>
 </td>
 <td>
 TU Eindhoven & Radboud
@@ -652,13 +652,18 @@ Founding member
 <iframe src="/docs/poster_SAG.pdf"></iframe>
 </td>
 <td  colspan="2">
-To promote and connect the PDE community in Netherlands, we organize events, workshops, study-groups, and connect researchers. Our kick-off event was in Feb 2026 (Leiden). We are extending it to BeNeLux level with a launch event on 11th Sep 2026.
+To promote and connect the PDE community in the Netherlands, we organize events, workshops, study-groups, and connect researchers. Our kick-off event was in Feb 2026 (Leiden). We are extending it to BeNeLux level with a launch event on 11th Sep 2026.
 </td>
 </tr>
 </table>
 
 <h4> Departmental work </h4>
 <table>
+<tr><td>
+2026 Sep-
+</td><td>
+Contact person <a href="https://www.tue.nl/en/education/graduate-school/master-industrial-and-applied-mathematics/course-structure-and-curriculum/mathematics-for-the-natural-world"><i>Mathematics and Computing in the Sciences Specialization</i></a>
+</td></tr>
 <tr><td>
 2025 Jan-
 </td><td>

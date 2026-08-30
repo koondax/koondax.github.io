@@ -112,12 +112,25 @@ A. Javed, K. Mitra, & I.S. Pop. <i> Robust and adaptive linearization scheme for
 <br>
 ---->
 
+<h4> </h4>
+<ul style="list-style-image: url('/icons/paper.png');">
+<li>
+A. Javed, K. Mitra, & I.S. Pop (2026). <a href="https://doi.org/10.1090/mcom/4235"> Stable, fast, and adaptive splitting schemes for nonlinear doubly-degenerate diffusion equations. </a>  Mathematics of Computation.
+</li>
+<li>
+F. Goulamaly, M.J.H. Anthonissen, W.L. IJzerman, L. Kusch, K. Mitra, & J.H.M. ten Thije Boonkkamp (2026). <a href="https://doi.org/10.21203/rs.3.rs-10590541/v1"> Inverse freeform design of two-dimensional reflectors for a finite-source problem using an integro-differential formulation. </a>
+</li>
+<li>
+A. Harnist, K. Mitra, A. Rappaport, & M. Vohralik (2023). <a href="https://doi.org/10.1093/imanum/drag036">Robust augmented energy a posteriori estimates for Lipschitz and strongly monotone elliptic problems</a>. IMA Journal of Numerical Analysis, drag036.</li>
+<li>
+A. Javed, K. Mitra, & I.S. Pop (2026). <a href="https://doi.org/10.48550/arXiv.2607.05714"> An adaptive, space-time discretized linear iterative scheme for doubly-degenerate parabolic problems. </a>  arXiv preprint arXiv:2607.05714.
+</li>
+
+
 <h4> 2025 </h4>
 <ul style="list-style-image: url('/icons/paper.png');">
 
-<li>
-A. Javed, K. Mitra, & I.S. Pop (2025). <a href="https://doi.org/10.48550/arXiv.2509.00794"> Robust, fast, and adaptive splitting schemes for nonlinear doubly-degenerate diffusion equations. </a> arXiv preprint arXiv.2508.07420.
-</li>
+
 
 <li>
 R.N. Köhle, K.T.W. Menting, K. Mitra, & J.H.M. ten Thije Boonkkamp (2025). <a href="https://doi.org/10.48550/arXiv.2508.07420"> Robust and fast iterative method for the elliptic Monge-Ampère equation. </a> arXiv preprint arXiv.2508.07420.
@@ -168,9 +181,6 @@ K. Mitra, & M. Vohralik (2023). <a href="https://inria.hal.science/hal-04156711"
 An orthogonal decomposition result based on iterative linearization</a>. HAL Preprint, hal-04156711, v.1.
 </li>
 
-
-<li>
-A. Harnist, K. Mitra, A. Rappaport, & M. Vohralik (2023). <a href="https://hal.science/hal-04033438">Robust a posteriori estimate of energy differences for nonlinear elliptic problems</a>. HAL preprint, hal-04033438.</li>
 
 <li> J.S. Stokke, K. Mitra, E. Storvik, J.W. Both, & F.A. Radu (2023).
 <a href="https://doi.org/10.1016/j.camwa.2023.10.020"> An adaptive solution strategy for Richards' equation </a>. Computers & Mathematics with Applications,

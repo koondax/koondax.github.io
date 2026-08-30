@@ -117,15 +117,30 @@ A. Javed, K. Mitra, & I.S. Pop. <i> Robust and adaptive linearization scheme for
 <li>
 A. Javed, K. Mitra, & I.S. Pop (2026). <a href="https://doi.org/10.1090/mcom/4235"> Stable, fast, and adaptive splitting schemes for nonlinear doubly-degenerate diffusion equations. </a>  Mathematics of Computation.
 </li>
+
 <li>
 F. Goulamaly, M.J.H. Anthonissen, W.L. IJzerman, L. Kusch, K. Mitra, & J.H.M. ten Thije Boonkkamp (2026). <a href="https://doi.org/10.21203/rs.3.rs-10590541/v1"> Inverse freeform design of two-dimensional reflectors for a finite-source problem using an integro-differential formulation. </a>
 </li>
+
 <li>
 A. Harnist, K. Mitra, A. Rappaport, & M. Vohralik (2023). <a href="https://doi.org/10.1093/imanum/drag036">Robust augmented energy a posteriori estimates for Lipschitz and strongly monotone elliptic problems</a>. IMA Journal of Numerical Analysis, drag036.</li>
+
 <li>
-A. Javed, K. Mitra, & I.S. Pop (2026). <a href="https://doi.org/10.48550/arXiv.2607.05714"> An adaptive, space-time discretized linear iterative scheme for doubly-degenerate parabolic problems. </a>  arXiv preprint arXiv:2607.05714.
+A. Javed, K. Mitra, & I.S. Pop (2026). <a href="https://doi.org/10.48550/arXiv.2607.05714"> An adaptive, space-time discretized linear iterative scheme for doubly-degenerate parabolic problems. </a>  ArXiv preprint arXiv:2607.05714.
 </li>
 
+<li>
+R. Hacking, L. Kusch, K. Mitra, M.J.H. Anthonissen, & W.L. IJzerman (2026). <a href="https://doi.org/10.48550/arXiv.2604.02184">Neural-network methods for two-dimensional finite-source reflector design</a>. ArXiv preprint arXiv:2604.02184.
+</li>
+
+<li>
+S. Verma, L. Kusch, K. Mitra, M.J.H. Anthonissen, J.H.M. ten Thije Boonkkamp, & W.L. IJzerman (2026). <a href="https://doi.org/10.1364/JOSAA.588173">Design of a three-dimensional parallel-to-point imaging system using inverse methods. </a> Journal of the Optical Society of America A 43.3 (2026): 495-506.
+</li>
+
+
+<li>
+L. Nieding, A.G. Morgan, A. Navas, D. Pera, B. Rubino, F. Di Michele, K. Mitra, Q. Peng, & C. Reisch (2026). <a href="https://doi.org/10.48550/arXiv.2603.00831">Recent analytical and computational developments on the advection-diffusion-reaction wildfire model</a>. ArXiv preprint arXiv:2603.00831.
+</li>
 
 <h4> 2025 </h4>
 <ul style="list-style-image: url('/icons/paper.png');">
@@ -133,7 +148,7 @@ A. Javed, K. Mitra, & I.S. Pop (2026). <a href="https://doi.org/10.48550/arXiv.2
 
 
 <li>
-R.N. Köhle, K.T.W. Menting, K. Mitra, & J.H.M. ten Thije Boonkkamp (2025). <a href="https://doi.org/10.48550/arXiv.2508.07420"> Robust and fast iterative method for the elliptic Monge-Ampère equation. </a> arXiv preprint arXiv.2508.07420.
+R.N. Köhle, K.T.W. Menting, K. Mitra, & J.H.M. ten Thije Boonkkamp (2025). <a href="https://doi.org/10.48550/arXiv.2508.07420"> Robust and fast iterative method for the elliptic Monge-Ampère equation. </a> ArXiv preprint arXiv.2508.07420.
 </li>
 
 <li>
@@ -145,11 +160,7 @@ R. Hacking, L. Kusch, K. Mitra, M.J.H. Anthonissen, & W.L. IJzerman (2025). <a h
 </li>
 
 <li>
-R.K.H. Smeets, K. Mitra, S. Sonner, & I.S. Pop (2025). <a href="https://doi.org/10.48550/arXiv.2404.00391"> Robust time-discretisation and linearisation schemes for singular and degenerate evolution systems modelling biofilm growth. </a>  IMA Journal of Numerical Analysis  (to appear).
-</li>
-
-<li>
-S. Verma, L. Kusch, K. Mitra, M.J.H. Anthonissen, J.H.M. ten Thije Boonkkamp, & W.L. IJzerman (2025). <a href="https://arxiv.org/abs/2507.02507">Design of a three-dimensional parallel-to-point imaging system based on inverse methods. </a> arXiv preprint arXiv:2507.02507.
+R.K.H. Smeets, K. Mitra, S. Sonner, & I.S. Pop (2025). <a href="https://doi.org/10.48550/arXiv.2404.00391"> Robust time-discretisation and linearisation schemes for singular and degenerate evolution systems modelling biofilm growth. </a>  IMA Journal of Numerical Analysis, , draf077.
 </li>
 
 <li>

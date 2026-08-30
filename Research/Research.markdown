@@ -112,7 +112,7 @@ A. Javed, K. Mitra, & I.S. Pop. <i> Robust and adaptive linearization scheme for
 <br>
 ---->
 
-<h4> </h4>
+<h4> 2026</h4>
 <ul style="list-style-image: url('/icons/paper.png');">
 <li>
 A. Javed, K. Mitra, & I.S. Pop (2026). <a href="https://doi.org/10.1090/mcom/4235"> Stable, fast, and adaptive splitting schemes for nonlinear doubly-degenerate diffusion equations. </a>  Mathematics of Computation.
@@ -141,6 +141,8 @@ S. Verma, L. Kusch, K. Mitra, M.J.H. Anthonissen, J.H.M. ten Thije Boonkkamp, & 
 <li>
 L. Nieding, A.G. Morgan, A. Navas, D. Pera, B. Rubino, F. Di Michele, K. Mitra, Q. Peng, & C. Reisch (2026). <a href="https://doi.org/10.48550/arXiv.2603.00831">Recent analytical and computational developments on the advection-diffusion-reaction wildfire model</a>. ArXiv preprint arXiv:2603.00831.
 </li>
+</ul>
+<br>
 
 <h4> 2025 </h4>
 <ul style="list-style-image: url('/icons/paper.png');">
